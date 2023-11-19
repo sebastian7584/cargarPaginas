@@ -1,0 +1,1 @@
+python C:\Users\usuario\Documents\olimpo\cargar_paginas\chaturbate_consolidado.py

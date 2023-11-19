@@ -1,0 +1,1 @@
+python C:\Users\usuario\Documents\olimpo\cargar_paginas\streamate_consolidado.py

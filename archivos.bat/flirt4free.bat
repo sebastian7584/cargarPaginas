@@ -1,0 +1,1 @@
+python C:\Users\usuario\Documents\olimpo\cargar_paginas\flirt4free_consolidado.py

@@ -1,0 +1,1 @@
+python C:\Users\usuario\Documents\olimpo\python\pasarDatosANueva.py
