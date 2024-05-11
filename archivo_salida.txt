@@ -1,0 +1,784 @@
+<html class=" ext-strict"><head>
+            <script type="text/javascript" async="" src="https://widget.intercom.io/widget/eiid3ixw"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-LCBPJ3QP16&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/gtm/js?id=OPT-MZSFV6S&amp;cid=723020602.1701182145"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MJ29FD7"></script><script>
+    window.dataLayer = [];
+        document.addEventListener('DOMContentLoaded', function () {
+        dataLayer.push({
+            'event'       : 'content-view',
+            'contentName' : location.href,
+            "accountType":"studio"        });
+    }, false);
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MJ29FD7');</script>
+<!-- End Google Tag Manager -->
+<!-- Google Optimize -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-45543902-8', {cookieDomain : 'auto', siteSpeedSampleRate : 100});
+    ga('require', 'OPT-MZSFV6S');
+</script>
+<!-- End Google Optimize -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>LiveJasmin.com - Model Center - Income-statistics</title><meta name="description" content="Model Center - Income-statistics - Language:es">
+<meta name="theme-color" content="#b32626">
+<meta name="msapplication-TileColor" content="#b32626">
+<meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="apple-touch-icon" sizes="180x180" href="https://modelcenter.livejasmin.com/images/apple180-livejasmin.png?v=2">
+<link rel="icon" type="image/png" sizes="16x16" href="https://modelcenter.livejasmin.com/favicon16_livejasmin.png?v=2">
+<link rel="icon" type="image/png" sizes="32x32" href="https://modelcenter.livejasmin.com/favicon32_livejasmin.png?v=2">
+<link rel="icon" type="image/svg+xml" href="https://modelcenter.livejasmin.com/images/MC.svg?v=2">
+<link rel="shortcut icon" href="https://modelcenter.livejasmin.com/favicon_livejasmin.ico?v=2" type="image/x-icon">
+<link rel="mask-icon" href="https://modelcenter.livejasmin.com/images/safari-pinned-tab-livejasmin.svg?v=2" color="#a60000">
+
+
+        <link rel="manifest" href="https://modelcenter.livejasmin.com/manifest-prod-default.json">
+<link rel="stylesheet" type="text/css" href="https://staticx1.dditscdn.com/msc/jasmin/default-variables.fd7fb24d2e21.css" media="">
+<link rel="stylesheet" type="text/css" href="https://staticx3.dditscdn.com/msc/jasmin/styles.32813755c778.css" media="">
+<link rel="stylesheet" type="text/css" href="https://staticx1.dditscdn.com/msc/jasmin/app.36aaf2406fa2.css" media="">
+<script type="text/javascript" src="https://staticx4.dditscdn.com/msc/jasmin/cache/languages/es.js?cb=241438"></script>
+<link rel="preconnect" href="https://www.google-analytics.com">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://stats.g.doubleclick.net">
+<link rel="preconnect" href="https://gallery.dditscdn.com">
+<link rel="preconnect" href="https://api-gateway.modelcenter.jasmin.com">
+            <script>
+                window.THEME = "livejasmin";
+                window.GlobalConfig = {"performer":null,"studio":{"name":"becerra","accountType":"studio","certificationType":null},"isPartnerBirthday":false,"isProfilePictureReCropOverlayNeeded":false,"isMainstreamSite":false,"activePerformerId":null,"activeStudioId":960367,"applicationEnvironment":"prod","apiHost":"api-gateway.modelcenter.jasmin.com","apiClientId":"msc-portal","apiClientSecret":"OGeY6OKewhpJvyOG5LYJp8GDaLrvdBJ1ld0cAFahEn7qPqZVSlS48sMIPVCrRhNe","apiRedirectUri":"https:\/\/modelcenter.jasmin.com\/en\/login","showDisplayNameChangeOverlay":false,"domain":"livejasmin","language":"es","viewType":"studio","performerCategoryId":null,"isLoggedIn":true,"hasStudioAccount":true,"isManagedPerformer":false,"isSingleAccount":false,"userId":934791,"isActionRequestEnabled":false,"isLimitedAccess":false,"isGiftSendingEnabled":false,"enabledFeatureFlags":"{\"enableCamModelDayWidget\":\"1\"}","isRoseSendingEnabled":false,"isTinNeeded":false};
+                window.PortalApi = {};
+            </script>
+            <!--	we need it based on env-->
+        <script async="" src="https://static.hotjar.com/c/hotjar-936320.js?sv=6"></script><style type="text/css"></style><link rel="stylesheet" type="text/css" href="https://staticx1.dditscdn.com/msc/jasmin/9329.b7b191199632.css"><script async="" src="https://script.hotjar.com/modules.28e3191d8757c557b4b7.js" charset="utf-8"></script><link rel="stylesheet" type="text/css" href="https://staticx1.dditscdn.com/msc/jasmin/3383.c4389622d5f9.css"><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><link rel="stylesheet" type="text/css" href="https://staticx1.dditscdn.com/msc/jasmin/5279.1b2592220a50.css"><link rel="stylesheet" type="text/css" href="https://staticx1.dditscdn.com/msc/jasmin/5994.36c488d60132.css"><link rel="stylesheet" type="text/css" href="https://staticx1.dditscdn.com/msc/jasmin/7389.618472b3c83c.css"><link rel="stylesheet" type="text/css" href="https://staticx1.dditscdn.com/msc/jasmin/8340.7590051bfe9f.css"><link rel="stylesheet" type="text/css" href="https://staticx1.dditscdn.com/msc/jasmin/9600.23efc6359457.css"></head>
+
+        <body id="incomestatistics_index" class="layout-modelcenterbasic lang_es livejasmin-theme ext-webkit ext-chrome width1240 livejasmin--NP5FMZxAX4kYvlD undefined common--iiHcoaLNN0BnHtk">
+                <!-- Header Block start -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MJ29FD7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Header Block end -->
+
+        <div id="guidedTourTooltipContainer">
+                    </div>
+
+        <div id="ajaxIndicatorContainer" class="progressIndicator">
+    <span></span>
+    <em>
+        <img alt="loader" src="https://staticx1.dditscdn.com/msc/jasmin/img/livejasmin-loader.2f0ec09f5bd5.svg">
+    </em>
+</div>
+
+        <div class="react-chaos-bridge"></div>
+        <div class="react-root" data-react-component="Toasts" data-react-component-path="src/components"></div>
+        <div class="react-root" data-react-component="CookieConsent" data-react-component-path="src/pages/Shared" data-no-auth="true"><div data-testid="cookie-consent-banner" class="cookieBanner--h1ejzfAHsaxr5QE root--uth9qTGdaBfvz0j"><div class="meta--AOdSb8H6dF0rQJ5"><h6 class="header--DW4w64F9XNV3qcX">Respetamos tu Privacidad</h6><p class="body--RPAzhHTW5Dvplp2">Utilizamos cookies y tecnologías similares, incluidas cookies de terceros, para mejorar su experiencia, analizar el tráfico y la actividad de los usuarios y con fines promocionales. Para obtener más información sobre nuestras cookies, consulta nuestra <a href="/es/cookie-policy" target="_blank">Política de Cookies</a>.</p></div><div class="accept--FkopGA6XMy0PZxz"><button data-testid="cookie-consent-banner-accept" class="button--NVEfYle0iV11G7J base--xjauApumXS1AK61 button--iOqUxTbH6OguSC9 m--oJBTBFr5YVxhnye primary--vJ17gW_q1tzfeLz" type="button">Aceptar Cookies</button></div><div class="reject--gz4Jz8lexFEwfhn"><button data-testid="cookie-consent-banner-reject" class="button--NVEfYle0iV11G7J base--xjauApumXS1AK61 button--iOqUxTbH6OguSC9 m--oJBTBFr5YVxhnye primary--vJ17gW_q1tzfeLz" type="button">Rechazar Cookies</button></div><div class="manage--hHmyTM3YtyJb_52"><button data-testid="cookie-consent-banner-manage" class="button--NVEfYle0iV11G7J base--xjauApumXS1AK61 button--iOqUxTbH6OguSC9 m--oJBTBFr5YVxhnye textPrimary--nz3NEWyhXxaqXWS textBase--w1OusA6jdPYnAnY" type="button">Administrar cookies</button></div></div></div>
+
+        <div id="main_container" class="ph-clear-after">
+            <!-- HEADER -->
+                    <div class="react-root" data-react-component-path="src/components" data-react-component="Header" style="height: auto; background: none; border: none;">
+        <header class="livejasmin--xTX_IEmKf5C3j87 root--V7w2rpa0smIMfV4 root--V7w2rpa0smIMfV4 headerBlock--CqeRyfLjnaJFSCz"> <div class="headerInner--UTeSvjz7AtQgiDa"><div class="headerWrapper--zigxCeJzZM0bGkc"><div class="root--Nenoxi62K0YpcMv container--Nq928A10PVxnCRq"><div class="menu--mTMp6NXo_tUi___"><div class="root--ew49_8aK1kWMVtV container--OJIGwvYQ0ad0j_r" data-testid="hamburger"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" data-testid="hamburger-inactive"><path d="M3,18.25v-1.5H21v1.5H3Zm0 -5.5v-1.5H21v1.5H3Zm0 -5.5v-1.5H21v1.5H3Z"></path></svg></div></div></div><a href="/es/"><img class="livejasmin--WHzoRinGCfGUpQV logo--raGFhSIUMWtxv_C" src="https://staticx1.dditscdn.com/msc/jasmin/f2920c1a7e33a5f8e290.svg" alt="Logo"></a><div class="headerButtons--uN_Q91MGeHstnFg"><div class="livejasmin--eytFfcBliHuCh4_ root--tcmaRRf_R3oGmY6 wrapper--X160XoP14wR0Hfw"><a class="mainIcon--y4mjcne1cBsKegN settingsIcon--cYNZXfd0MORknpO" href="/es/settings" data-testid="settings-link-icon"><i class="icon--PEnj6JHYgTMBj4a livejasmin--Da9Luky1JocLptN icon-settings-outline--hcDsvDgPBttCHfe" aria-hidden="true" style="font-size: 2.4rem; color: rgb(var(--color-white));"></i></a><div class="mainIcon--y4mjcne1cBsKegN" data-testid="user-dropdown-icon"><i class="icon--PEnj6JHYgTMBj4a livejasmin--Da9Luky1JocLptN icon-profile-outline--ikmc2U9gRWvgyoQ" aria-hidden="true" style="font-size: 2.4rem;"></i></div></div></div></div></div></header><div class="livejasmin--xTX_IEmKf5C3j87 root--V7w2rpa0smIMfV4 headerMarginBottom--WyQUMADi3G9GsK3 "></div></div>
+                    <!-- HEADER END -->
+
+            <div id="main_content">
+                <input id="menu-toggle" type="checkbox" class="ph-hide hamburger-checkbox">
+                <aside class="sidebar ph-block-on-medium-and-up js-site-menu">
+                    <div class="menu-wrapper">
+                                <div id="accountBox" class="studioAccountBox">
+                        <div class="react-root" data-react-component-path="src/pages/Layouts/components" data-react-component="ProfileInfo"><div class="profileInfo--C5piyq1rrcb98fA livejasmin--NQRUfrKbTTHvMxZ"><div class="avatarWrapper--ATfZrCRyhoJhMyy"><div class="livejasmin--i3COoRkHpx_ufg8 onDarkBg--lAyFg3_nBCdavDk avatarBg--np3xWTsq6rh5PiF cursorPointer--fkG0aKENlBVJYJv" data-testid="avatar-wrapper" style="width: 110px; height: 110px;"><div class="avatar--qrJYQvSIOU4zjlG" data-testid="avatar"><i data-testid="studio-avatar-placeholder" class="icon--PEnj6JHYgTMBj4a livejasmin--Da9Luky1JocLptN icon-group-studio-solid--tmjoHMqmQKl40S3 placeholder--Y01yM29LK7e9sKP" aria-hidden="true" style="font-size: 72px;"></i></div></div></div><a href="/es/profile/personal-data" class="studioName--BG6cbt1nTVRX2yS" data-hj-suppress="true" data-testid="profile-info-name">becerra</a><div class="studioLabel--FuzTYabA3pWHkL0" data-testid="profile-info-type">Cuenta de Estudio</div></div></div>
+        </div>
+                        <ul id="menuBox">
+                    <li class="menuItem js-menuItem submenu-count-0" data-menu-label="Models">
+            <a class="menuLine" href="/es/models" id="ext-gen4">
+                <span class="menuIcon">
+                    <i class="msc-icon icon-home-outline js-menu-icon" data-unhovered-icon="icon-home-outline" data-hovered-icon="icon-home-solid"></i>
+                </span>
+                <p class="mainMenuText">Modelos</p>
+                
+                
+                            </a>
+
+                    </li>
+                <li class="menuItem js-menuItem submenu-count-0" data-menu-label="Statistics">
+            <a class="menuLine" href="/es/statistics/studio/dashboard" id="ext-gen5">
+                <span class="menuIcon">
+                    <i class="msc-icon icon-chart-lines-outline js-menu-icon" data-unhovered-icon="icon-chart-lines-outline" data-hovered-icon="icon-chart-lines-solid"></i>
+                </span>
+                <p class="mainMenuText">Estadísticas</p>
+                
+                
+                            </a>
+
+                    </li>
+                <li class="menuItem js-menuItem submenu-count-0" data-menu-label="Messages">
+            <a class="menuLine" href="/es/support-messenger/support/inbox" id="ext-gen6">
+                <span class="menuIcon">
+                    <i class="msc-icon icon-envelope-outline js-menu-icon" data-unhovered-icon="icon-envelope-outline" data-hovered-icon="icon-envelope-solid"></i>
+                </span>
+                <p class="mainMenuText">Mensajes</p>
+                
+                
+                                    <span class="notification"></span>
+                            </a>
+
+                    </li>
+                <li class="menuItem js-menuItem submenu-count-0" data-menu-label="Personal Data">
+            <a class="menuLine" href="/es/profile/personal-data" id="ext-gen7">
+                <span class="menuIcon">
+                    <i class="msc-icon icon-settings-outline js-menu-icon" data-unhovered-icon="icon-settings-outline" data-hovered-icon="icon-settings-solid"></i>
+                </span>
+                <p class="mainMenuText">Datos Personales</p>
+                
+                
+                            </a>
+
+                    </li>
+                <li class="menuItem activeSubMenu noClose hasSubmenu js-menuItem submenu-count-4" data-menu-label="Payout">
+            <a id="menuItemPayout" class="menuLine" href="#">
+                <span class="menuIcon">
+                    <i class="msc-icon icon-payout-solid js-menu-icon" data-unhovered-icon="icon-payout-outline" data-hovered-icon="icon-payout-solid"></i>
+                </span>
+                <p class="mainMenuText">Pagos</p>
+                
+                                    <div class="menuArrow react-root up" data-react-component-path="src/components" data-react-component="Icon" data-icon="caret-down" data-size="2rem">
+                    <i class="icon--PEnj6JHYgTMBj4a livejasmin--Da9Luky1JocLptN icon-caret-down--fzWNtCO5Lcny1EM" aria-hidden="true" style="font-size: 2rem;"></i></div>
+                
+                            </a>
+
+                            <ul>
+                            <li class="activeSub js-menuItem" data-menu-label="Income Statistics">
+            <a class="subMenu" href="/es/payout/income-statistics" id="ext-gen11">
+                <p class="subMenuText">Estadísticas de Ingresos</p>
+
+                                            </a>
+        </li>
+                <li class=" js-menuItem" data-menu-label="Payouts Overview">
+            <a class="subMenu" href="/es/payout/payout-overview" id="ext-gen12">
+                <p class="subMenuText">Resumen de pagos</p>
+
+                                            </a>
+        </li>
+                <li class=" js-menuItem" data-menu-label="Payout Options">
+            <a class="subMenu" href="/es/payout/recipient-type-selector" id="ext-gen13">
+                <p class="subMenuText">Opciones de pago</p>
+
+                                            </a>
+        </li>
+                <li class=" js-menuItem" data-menu-label="Payout FAQ">
+            <a class="subMenu" href="/es/payout/payinfo" id="ext-gen14">
+                <p class="subMenuText">FAQ sobre Métodos de Pago</p>
+
+                                            </a>
+        </li>
+                        </ul>
+                    </li>
+                <li class="menuItem js-menuItem submenu-count-0" data-menu-label="Loyalfans">
+            <a class="menuLine" href="/es/loyalfans" id="ext-gen8">
+                <span class="menuIcon">
+                    <i class="msc-icon icon-logos-loyalfans js-menu-icon" data-unhovered-icon="icon-logos-loyalfans" data-hovered-icon="icon-logos-loyalfans"></i>
+                </span>
+                <p class="mainMenuText">Loyalfans</p>
+                
+                
+                            </a>
+
+                    </li>
+                <li class="menuItem hasSubmenu js-menuItem submenu-count-2" data-menu-label="Referrals">
+            <a class="menuLine" href="#" id="ext-gen9">
+                <span class="menuIcon">
+                    <i class="msc-icon icon-referral-outline js-menu-icon" data-unhovered-icon="icon-referral-outline" data-hovered-icon="icon-referral-solid"></i>
+                </span>
+                <p class="mainMenuText">Referidos</p>
+                
+                                    <div class="menuArrow react-root" data-react-component-path="src/components" data-react-component="Icon" data-icon="caret-down" data-size="2rem">
+                    <i class="icon--PEnj6JHYgTMBj4a livejasmin--Da9Luky1JocLptN icon-caret-down--fzWNtCO5Lcny1EM" aria-hidden="true" style="font-size: 2rem;"></i></div>
+                
+                            </a>
+
+                            <ul>
+                            <li class=" js-menuItem" data-menu-label="Model Referral">
+            <a class="subMenu" href="/es/referral" id="ext-gen15">
+                <p class="subMenuText">Modelos Referidos</p>
+
+                                            </a>
+        </li>
+                <li class=" js-menuItem" data-menu-label="Member Referral">
+            <a class="subMenu" href="/es/referrals/member-referral" id="ext-gen16">
+                <p class="subMenuText">Miembros Referidos</p>
+
+                                            </a>
+        </li>
+                        </ul>
+                    </li>
+                <li class="menuItem hasSubmenu js-menuItem submenu-count-5" data-menu-label="Help &amp; Info">
+            <a class="menuLine" href="#" id="ext-gen10">
+                <span class="menuIcon">
+                    <i class="msc-icon icon-megaphone-outline js-menu-icon" data-unhovered-icon="icon-megaphone-outline" data-hovered-icon="icon-megaphone-solid"></i>
+                </span>
+                <p class="mainMenuText">Ayuda &amp; Info</p>
+                
+                                    <div class="menuArrow react-root" data-react-component-path="src/components" data-react-component="Icon" data-icon="caret-down" data-size="2rem">
+                    <i class="icon--PEnj6JHYgTMBj4a livejasmin--Da9Luky1JocLptN icon-caret-down--fzWNtCO5Lcny1EM" aria-hidden="true" style="font-size: 2rem;"></i></div>
+                
+                                    <span class="notification"></span>
+                            </a>
+
+                            <ul>
+                            <li class=" js-menuItem" data-menu-label="News">
+            <a class="subMenu" href="/es/help/news" id="ext-gen17">
+                <p class="subMenuText">Novedades</p>
+
+                                                                <span class="notification"></span>
+                <span class="notificationCounter">116</span>
+                                    </a>
+        </li>
+                <li class=" js-menuItem" data-menu-label="Online Support Chat">
+            <a class="subMenu" href="/es/online-support-chat" id="ext-gen18">
+                <p class="subMenuText">Chat de soporte en directo</p>
+
+                                            </a>
+        </li>
+                <li class=" js-menuItem" data-menu-label="Income Shares">
+            <a class="subMenu" href="/es/help/income-shares" id="ext-gen19">
+                <p class="subMenuText">Comisiones en los ingresos</p>
+
+                                            </a>
+        </li>
+                <li class=" js-menuItem" data-menu-label="Wiki">
+            <a class="subMenu noPopup" href="https://wiki.livejasmin.com" target="_blank" id="ext-gen20">
+                <p class="subMenuText">Wiki</p>
+
+                                            </a>
+        </li>
+                <li class=" js-menuItem" data-menu-label="Rules">
+            <a class="subMenu" href="/es/help/rules" id="ext-gen21">
+                <p class="subMenuText">Reglamento</p>
+
+                                            </a>
+        </li>
+                        </ul>
+                    </li>
+                </ul>
+                                </div>
+                </aside>
+                <section class="page js-page-container">
+                    <div id="pageContainer">
+	<div class="box_header">
+					<em class="breadCrumbsTitle">
+			Pagos			<span class="pathArrow">›</span>
+		</em>
+				<span class="breadCrumbsTitleLast">Estadísticas de Ingresos</span>
+		</div>
+
+	<div class="selectPeriodBox" id="selectSalesStatPeriodBox">
+		<p>Elija un periodo para ver las ventas resumidas de sus Modelos:</p>
+		<form class="old-form" method="get" action="/es/payout/income-statistics">
+			<div class="choosePeriodContainer">
+				<div id="fromDate" class="inputs smallField">
+	<div class="calendarLayer" id="ext-gen46"></div>
+	<i class="icon-calendar"></i>
+	<input class="lowField calendar" data-min-year="2017" data-min-month="11" data-min-day="21" data-max-year="2023" data-max-month="11" data-max-day="28" readonly="readonly" name="fromDate" value="2023-11-28">
+	<div class="calendarBox">
+		<div class="selectorLine year">
+			<a href="#" class="stepPeriod prevPeriod" id="ext-gen22">
+				<i class="icon-angle-left"></i>
+			</a>
+			<p class="calendarText" id="ext-gen44">
+				<span class="calendarYear">2014</span>
+				<i class="icon-angle-down"></i>
+			</p>
+			<a href="#" class="stepPeriod nextPeriod" id="ext-gen23">
+				<i class="icon-angle-right"></i>
+			</a>
+		</div>
+		<div class="selectorLine month">
+			<a href="#" class="stepPeriod prevPeriod" id="ext-gen24">
+				<i class="icon-angle-left"></i>
+			</a>
+			<p class="calendarText" id="ext-gen45">
+				<span class="calendarMonth">April</span>
+				<i class="icon-angle-down"></i>
+			</p>
+			<a href="#" class="stepPeriod nextPeriod" id="ext-gen25">
+				<i class="icon-angle-right"></i>
+			</a>
+		</div>
+		<table class="daysContainer"></table>
+		<div class="selectData" id="select-fromDate">
+			<div class="scrollData" data-is="scrollable" id="scroll-fromDate" data-simplebar="init"><div class="simplebar-wrapper" style="margin: 0px;"><div class="simplebar-height-auto-observer-wrapper"><div class="simplebar-height-auto-observer"></div></div><div class="simplebar-mask"><div class="simplebar-offset" style="right: 0px; bottom: 0px;"><div class="simplebar-content-wrapper" tabindex="0" role="region" aria-label="scrollable content" style="height: auto; overflow: hidden;"><div class="simplebar-content" style="padding: 0px;">
+				<ul class="listContainer" id="list-fromDate"></ul>
+			</div></div></div></div><div class="simplebar-placeholder" style="width: 0px; height: 0px;"></div></div><div class="simplebar-track simplebar-horizontal" style="visibility: hidden;"><div class="simplebar-scrollbar simplebar-visible" style="width: 0px; display: none;"></div></div><div class="simplebar-track simplebar-vertical" style="visibility: hidden;"><div class="simplebar-scrollbar simplebar-visible" style="height: 0px; display: none;"></div></div></div>
+		</div>
+	</div>
+</div>
+				<em>-</em>
+				<div id="toDate" class="inputs smallField">
+	<div class="calendarLayer" id="ext-gen49"></div>
+	<i class="icon-calendar"></i>
+	<input class="lowField calendar" data-min-year="2017" data-min-month="11" data-min-day="21" data-max-year="2023" data-max-month="11" data-max-day="28" readonly="readonly" name="toDate" value="2023-11-28">
+	<div class="calendarBox">
+		<div class="selectorLine year">
+			<a href="#" class="stepPeriod prevPeriod" id="ext-gen26">
+				<i class="icon-angle-left"></i>
+			</a>
+			<p class="calendarText" id="ext-gen47">
+				<span class="calendarYear">2014</span>
+				<i class="icon-angle-down"></i>
+			</p>
+			<a href="#" class="stepPeriod nextPeriod" id="ext-gen27">
+				<i class="icon-angle-right"></i>
+			</a>
+		</div>
+		<div class="selectorLine month">
+			<a href="#" class="stepPeriod prevPeriod" id="ext-gen28">
+				<i class="icon-angle-left"></i>
+			</a>
+			<p class="calendarText" id="ext-gen48">
+				<span class="calendarMonth">April</span>
+				<i class="icon-angle-down"></i>
+			</p>
+			<a href="#" class="stepPeriod nextPeriod" id="ext-gen29">
+				<i class="icon-angle-right"></i>
+			</a>
+		</div>
+		<table class="daysContainer"></table>
+		<div class="selectData" id="select-toDate">
+			<div class="scrollData" data-is="scrollable" id="scroll-toDate" data-simplebar="init"><div class="simplebar-wrapper" style="margin: 0px;"><div class="simplebar-height-auto-observer-wrapper"><div class="simplebar-height-auto-observer"></div></div><div class="simplebar-mask"><div class="simplebar-offset" style="right: 0px; bottom: 0px;"><div class="simplebar-content-wrapper" tabindex="0" role="region" aria-label="scrollable content" style="height: auto; overflow: hidden;"><div class="simplebar-content" style="padding: 0px;">
+				<ul class="listContainer" id="list-toDate"></ul>
+			</div></div></div></div><div class="simplebar-placeholder" style="width: 0px; height: 0px;"></div></div><div class="simplebar-track simplebar-horizontal" style="visibility: hidden;"><div class="simplebar-scrollbar simplebar-visible" style="width: 0px; display: none;"></div></div><div class="simplebar-track simplebar-vertical" style="visibility: hidden;"><div class="simplebar-scrollbar simplebar-visible" style="height: 0px; display: none;"></div></div></div>
+		</div>
+	</div>
+</div>
+
+<div id="select_statusFilter" class="inputs TC smallField ">
+	<div class="lowField">
+		<select id="statusFilter-component" name="status" autocomplete="off" data-field="status" data-type="jsonObject" style="display: none;">
+			
+						<option value="all" id="ext-gen38" selected="selected">
+			Todos los estados		</option>
+				<option value="online" id="ext-gen39">
+			En línea		</option>
+				<option value="unfinished" id="ext-gen40">
+			Inconcluso		</option>
+				<option value="rejected" id="ext-gen41">
+			Rechazado		</option>
+				<option value="suspended" id="ext-gen42">
+			Suspendido		</option>
+				<option value="active" id="ext-gen43">
+			Activo		</option>
+			</select><div id="statusFilter-component-container" class=""><input id="statusFilter" type="text" autocomplete="off" readonly=""><i id="statusFilter-component-icon" class="icon-select msc-icon icon-caret-down"></i><div id="statusFilter-component-scrollContainer" class="scrollContainer" style="display: none;"><div id="statusFilter-component-dropDown" class="dropDownContainer"><div id="statusFilter-component-slide" class="slideContainer"><scrollable id="ext-gen37" data-simplebar="init"><div class="simplebar-wrapper" style="margin: 0px;"><div class="simplebar-height-auto-observer-wrapper"><div class="simplebar-height-auto-observer"></div></div><div class="simplebar-mask"><div class="simplebar-offset" style="right: 0px; bottom: 0px;"><div class="simplebar-content-wrapper" tabindex="0" role="region" aria-label="scrollable content" style="height: auto; overflow: hidden;"><div class="simplebar-content" style="padding: 0px;"><ul id="statusFilter-component-list" class="listContainer" style="display: none;"><li data-value="all" id="statusFilter-component-list-element-0" tabindex="0" count="0" class=" enabled">Todos los estados</li><li data-value="online" id="statusFilter-component-list-element-1" tabindex="0" count="1" class=" enabled">En línea</li><li data-value="unfinished" id="statusFilter-component-list-element-2" tabindex="0" count="2" class=" enabled">Inconcluso</li><li data-value="rejected" id="statusFilter-component-list-element-3" tabindex="0" count="3" class=" enabled">Rechazado</li><li data-value="suspended" id="statusFilter-component-list-element-4" tabindex="0" count="4" class=" enabled">Suspendido</li><li data-value="active" id="statusFilter-component-list-element-5" tabindex="0" count="5" class=" enabled">Activo</li></ul></div></div></div></div><div class="simplebar-placeholder" style="width: 0px; height: 0px;"></div></div><div class="simplebar-track simplebar-horizontal" style="visibility: hidden;"><div class="simplebar-scrollbar simplebar-visible" style="width: 0px; display: none;"></div></div><div class="simplebar-track simplebar-vertical" style="visibility: hidden;"><div class="simplebar-scrollbar simplebar-visible" style="height: 0px; display: none;"></div></div></scrollable></div></div></div></div>
+
+			</div>
+</div>
+
+
+<div id="select_categoryFilter" class="inputs TC smallField ">
+	<div class="lowField">
+		<select id="categoryFilter-component" name="category" autocomplete="off" data-field="category" data-type="jsonObject" style="display: none;">
+			
+						<option value="all" id="ext-gen33" selected="selected">
+			Todas las categorías		</option>
+				<option value="nudity" id="ext-gen34">
+			Desnudo		</option>
+				<option value="hot_flirt" id="ext-gen35">
+			Flirteo Caliente		</option>
+				<option value="non_nudity" id="ext-gen36">
+			No Desnudo		</option>
+			</select><div id="categoryFilter-component-container" class=""><input id="categoryFilter" type="text" autocomplete="off" readonly=""><i id="categoryFilter-component-icon" class="icon-select msc-icon icon-caret-down"></i><div id="categoryFilter-component-scrollContainer" class="scrollContainer" style="display: none;"><div id="categoryFilter-component-dropDown" class="dropDownContainer"><div id="categoryFilter-component-slide" class="slideContainer"><scrollable id="ext-gen32" data-simplebar="init"><div class="simplebar-wrapper" style="margin: 0px;"><div class="simplebar-height-auto-observer-wrapper"><div class="simplebar-height-auto-observer"></div></div><div class="simplebar-mask"><div class="simplebar-offset" style="right: 0px; bottom: 0px;"><div class="simplebar-content-wrapper" tabindex="0" role="region" aria-label="scrollable content" style="height: auto; overflow: hidden;"><div class="simplebar-content" style="padding: 0px;"><ul id="categoryFilter-component-list" class="listContainer" style="display: none;"><li data-value="all" id="categoryFilter-component-list-element-0" tabindex="0" count="0" class=" enabled">Todas las categorías</li><li data-value="nudity" id="categoryFilter-component-list-element-1" tabindex="0" count="1" class=" enabled">Desnudo</li><li data-value="hot_flirt" id="categoryFilter-component-list-element-2" tabindex="0" count="2" class=" enabled">Flirteo Caliente</li><li data-value="non_nudity" id="categoryFilter-component-list-element-3" tabindex="0" count="3" class=" enabled">No Desnudo</li></ul></div></div></div></div><div class="simplebar-placeholder" style="width: 0px; height: 0px;"></div></div><div class="simplebar-track simplebar-horizontal" style="visibility: hidden;"><div class="simplebar-scrollbar simplebar-visible" style="width: 0px; display: none;"></div></div><div class="simplebar-track simplebar-vertical" style="visibility: hidden;"><div class="simplebar-scrollbar simplebar-visible" style="height: 0px; display: none;"></div></div></scrollable></div></div></div></div>
+
+			</div>
+</div>
+
+				<button type="submit" class="button" size="s" id="ext-gen31">Ver</button>
+			</div>
+		</form>
+	</div>
+	<div id="salesDataTableWrapper">
+		<table id="salesStatsTable">
+			<tbody><tr>
+				<td class="tableHeaderCell modelHeader">Modelo</td>
+				<td class="tableHeaderCell salesHeader">Ventas</td>
+			</tr>
+										<tr class="tableRow">
+					<td class="tableSummarizeContentCell showMoreJs" data-id="model_1" id="ext-gen50">
+						<span title="TatiandNatasha" data-details-url="/es/payout/income-statistics/performer-details?performerId=4264506&amp;fromDate=2023-11-28&amp;toDate=2023-11-28">
+							TatiandNatasha						</span>
+						<i class="icon-angle-down"></i>
+					</td>
+					<td class="tableHighlightedCell">$23.44</td>
+				</tr>
+						<tr class="tableRow">
+				<td class="tableHighlightedCell incomeCategory">Income Summary:</td>
+				<td class="tableHighlightedCell">$23.44</td>
+			</tr>
+						<tr class="tableRow">
+				<td class="tableHighlightedCell mainSum incomeCategory">Resumen Global:</td>
+				<td class="tableHighlightedCell mainSum">$23.44</td>
+			</tr>
+		</tbody></table>
+
+		<div class="salesDataTable" id="salesDataTableContainer">
+			<div id="salesDataScrollContainer" class="scrollable--light scrollable--horizontal" show-horizontal="true" data-is="scrollable" data-simplebar="init"><div class="simplebar-wrapper" style="margin: 0px;"><div class="simplebar-height-auto-observer-wrapper"><div class="simplebar-height-auto-observer"></div></div><div class="simplebar-mask"><div class="simplebar-offset" style="right: 0px; bottom: 0px;"><div class="simplebar-content-wrapper" tabindex="0" role="region" aria-label="scrollable content" style="height: auto; overflow: hidden;"><div class="simplebar-content" style="padding: 0px;">
+				<table id="salesDataContainer">
+					<tbody><tr>
+													<td class="tableHeaderCell">2023 Nov 28 - Nov 28</td>
+											</tr>
+											<tr class="tableRow">
+																														<td class="tableRegularCell">$23.44</td>
+													</tr>
+										<tr class="tableRow">
+																				<td class="tableLighterRegularCell">$23.44</td>
+											</tr>
+										<tr class="tableRow">
+													<td class="tableHighlightedCell mainSum">$23.44</td>
+											</tr>
+				</tbody></table>
+			</div></div></div></div><div class="simplebar-placeholder" style="width: 451px; height: 189px;"></div></div><div class="simplebar-track simplebar-horizontal" style="visibility: hidden;"><div class="simplebar-scrollbar simplebar-visible" style="width: 0px; display: none;"></div></div><div class="simplebar-track simplebar-vertical" style="visibility: hidden;"><div class="simplebar-scrollbar simplebar-visible" style="height: 0px; display: none;"></div></div></div>
+		</div>
+	</div>
+	<div class="clear"></div>
+	<p class="statInfoText">
+		Estadísticas con más de seis meses no pueden ser visualizadas. En caso de necesitar los datos de ganancias anteriores o tener cualquier observación, por favor contáctenos en <a href="mailto:payinfo@livejasmin.com" id="ext-gen30">payinfo@livejasmin.com</a>.	</p>
+</div>
+<div class="clear"></div>
+                    <ph-clear></ph-clear>
+                </section>
+
+                <ph-clear></ph-clear>
+            </div>
+
+            <!-- FOOTER -->
+            <div class="react-root" data-no-auth="true" data-react-component-path="src/pages/LandingPage" data-react-component="Footer.container">
+<footer id="footer" class="footer--_YieTAJbfSWxJJz"><div class="container--Dxy4jlhQ2PDlgBW topContainer--jHwTaYjCAoUHxJn"><div class="links--OCfh07NUKP6iaaX"><dl><dt>Seguir LiveJasmin</dt><dd><ul><li class="socialIcon--Q3sNAYsUgE1asoE"><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/LiveJasmin"><i class="icon--PEnj6JHYgTMBj4a livejasmin--Da9Luky1JocLptN icon-twitter--Ol5bA7WBIl68d_N" aria-hidden="true" style="font-size: 1.6rem;"></i>Twitter</a></li><li class="socialIcon--Q3sNAYsUgE1asoE"><a target="_blank" rel="noopener noreferrer" href="https://youtube.com/channel/UCIMBP6B2OVNBWa81eiD7DbQ"><i class="icon--PEnj6JHYgTMBj4a livejasmin--Da9Luky1JocLptN icon-youtube--BlMYgfjrRIjXY5j" aria-hidden="true" style="font-size: 1.6rem;"></i>YouTube</a></li></ul></dd></dl><dl><dt>Trabaja con nosotros</dt><dd><ul><li><a href="https://www.awempire.com/offers" target="_blank" rel="noopener noreferrer">Programa de Afiliados</a></li><li><a href="/es/certified-partners" target="_blank" rel="noopener noreferrer">Socios Certificados</a></li></ul></dd></dl><dl><dt>Legal &amp; Seguridad</dt><dd><ul><li><a target="_blank" rel="noopener noreferrer" href="/es/services-agreement">Acuerdo de Servicio</a></li><li><a target="_blank" rel="noopener noreferrer" href="https://jwsbill.com">Declaración de la Propiedad</a></li><li><a target="_blank" rel="noopener noreferrer" href="/es/privacy-policy">Protección De Datos Personales</a></li><li><a target="_blank" rel="noopener noreferrer" href="/es/cookie-policy">Política de Cookies</a></li></ul></dd></dl><dl><dt>Ayuda &amp; Soporte</dt><dd><ul><li><a target="_blank" rel="noopener noreferrer" href="/es/online-support-chat/topic/other">Soporte en directo</a></li><li><a target="_blank" rel="noopener noreferrer" href="/es/faq">F.A.Q</a></li></ul></dd></dl></div><div class="textContainer--x9YwSdjs5rK8KHv"><p>El sitio contiene material sexualmente explícito. Entra al sitio SÓLO si eres mayor de 18 años y aceptas nuestra <a target="_blank" href="/es/cookie-policy">Política de Cookies</a>.</p><p><a href="https://www.livejasmin.com/en/terms-and-conditions#address" target="_blank" rel="noopener noreferrer">Requisitos de Registro de Declaración de cumplimiento 18 U.S.C 2257</a></p><p>Este sitio es operado por <a target="_blank" rel="noopener noreferrer" href="https://jwsamericas.com/">JWS Americas S.à r.l.</a> y <a target="_blank" rel="noopener noreferrer" href="https://jwsinternational.com/">JWS International S.à r.l.</a></p><div class="orgs--_tg3DyditHmbGca"><a href="https://www.rtalabel.org/" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30.32 12"><g id="aa7554ff-40fd-4011-8f48-7277a9f12b4d" data-name="Layer 2"><g id="a67d8643-886f-4d5b-b0ce-c721824a845e" data-name="Layer 1"><path id="a1b1a395-67aa-4a84-b039-d22a1c2d0b7c" data-name="RTA" d="M0,12V0H26.15l4.17,12H26.73l-.54-2h-3.9l-.53,2h-3.5l3.13-9H16.8v9H13.38V3H10a3.83,3.83,0,0,1-.37,2.09A3.34,3.34,0,0,1,7.45,6.71,3.13,3.13,0,0,1,9.26,8.52L10.91,12H7L5.21,8.34c-.34-.68-.7-1.2-1.46-1.2H3.44V12ZM25.48,7.43l-1.23-4.3L23,7.43Zm-22-2.6h1.5c.85,0,1.6-.3,1.6-1.18,0-1.16-.8-1.2-1.59-1.2H3.44Z" style="fill: rgb(237, 122, 122);"></path></g></g></svg></a><a href="https://www.asacp.org/ASACP.php" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54.74 12"><g id="be422885-4637-4952-ba63-8f82dd91f263" data-name="Layer 2"><g id="a0b7024b-79f2-47de-b095-c31f5346aec2" data-name="Layer 1"><path id="aa38732a-cefc-4198-9501-1ecc5029b2fb" data-name="ASACP" d="M6,3.23,7.26,7.37H4.94Zm21.12,0,1.24,4.14H26.07Zm21.6-.65H50.2a1.33,1.33,0,0,1,1.3,1.35,1.33,1.33,0,0,1-1.3,1.35H48.74ZM4.31.2,0,11.83H3.54l.61-1.91H8L8.79,12h8.63s2.53-.17,3.4-2.08a3.74,3.74,0,0,0-.93-4.63A10.2,10.2,0,0,0,16.49,4c-1.27-.35-1.69-.27-1.69-1s.78-.79.78-.79h9.09l-3.54,9.57h3.54l.61-1.92h3.86l.61,1.92H40.08A3.68,3.68,0,0,0,43,10.07c.84-1.66.77-2.08.77-2.08L40.69,7s-.09,2.23-2,2.23a2.13,2.13,0,0,1-2.32-1.91,5.9,5.9,0,0,1,.16-2.88,2.29,2.29,0,0,1,1.69-1.75h7.1V11.8H48.7V7.49h2.63S54.64,7,54.72,4.78s-.18-2.48-.47-3A3.42,3.42,0,0,0,51.94.15H36.67a5.06,5.06,0,0,0-3.7,4,9,9,0,0,0,.61,5.26H32.34L29,0H15.58s-4.17.18-4,3.35S14.7,6.61,15.74,7s2.15.56,2.15,1.43A1.08,1.08,0,0,1,17,9.55H11.57L8,.15H4.31Z" style="fill: rgb(237, 122, 122);"></path></g></g></svg></a><a href="https://www.fosi.org/icra/" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.89 12"><g id="bf487671-9ce3-4373-8b21-c9072e857aa4" data-name="Layer 2"><g id="eb11d47c-44c0-4dd9-ade1-80ed5a012c8d" data-name="Layer 1"><path id="a777d189-edd1-4ab1-86df-858eee5d4448" data-name="ICRA" d="M0,11.9H2.65V.26H0ZM22.38.26H15V11.9h2.65V7.44h3.24a1.71,1.71,0,0,1,1.67,1.22V11.9h2.66V8.25c0-.71-1.09-1.62-1.48-1.82,1.28-.5,1.37-1.82,1.37-2.83,0-1.32-.39-3.34-2.75-3.34ZM21.11,2.39c1,0,1.27.6,1.27,1.42s-.3,1.51-1.27,1.51H17.77V2.39ZM3.73,6V8.87A3.34,3.34,0,0,0,6.48,11.8c.78.1,2.15.2,2.45.2,1.67,0,4.91,0,5.21-3.14V7.55H11.48c.3,1.82-1.37,2.12-2.45,2.12C6.09,9.67,6.38,8.15,6.38,6V6c0-2.12-.3-3.64,2.65-3.64,1.08,0,2.75.31,2.45,2.12h2.66V3.14C13.84,0,10.6,0,8.93,0c-.3,0-1.67.1-2.45.2A3.34,3.34,0,0,0,3.73,3.13ZM33.87.26h-4l-4,11.64h2.85l.88-2.43h4.61l.89,2.43h2.84ZM32,2.49l1.48,4.75H30.24l1.48-4.75Z" style="fill: rgb(237, 122, 122);"></path></g></g></svg></a></div></div></div><hr class="ruler--dlX9eBGCTRKf3gH"><div class="container--Dxy4jlhQ2PDlgBW bottom--ruoj4Z9u4Aavagf"><div class="copyright--Pxxhq1lfhtlOlEI"><p>© 2023 LiveJasmin.com - Todos los Derechos Reservados!</p></div><div class="language--NRrj9XXgI5zqZLB"><div class="livejasmin--Kw6wIHgC9GacRhZ dropDownContainer--etRHka4dsJBAR4x defaultTheme--XGQotPZy4nGe66N"><div class="dropDownField--iRLCkKObNlhDkd5"><div class="label--wDbdOvqQ1dL33M8" aria-label="dropdown-field" data-testid="undefined-selected-value"><span>Español</span></div><div class="arrowContainer--hC5YVw1JtVajwDZ"><i class="icon--PEnj6JHYgTMBj4a livejasmin--Da9Luky1JocLptN icon-caret-down--fzWNtCO5Lcny1EM arrow--Y6oeMIxWGQIrZkB" aria-hidden="true" style="font-size: 2.4rem;"></i></div></div><div class="dropDownList--SeTr4NZgnTllrjT" data-testid="dropdown-list-container" style="width: 100%;"><div aria-label="scrollable-list" class="livejasmin--dVwCeSlp8dSdUnV scrollable--wJ9hamIoLiHSNvD" style="width: 100%;"><div data-hovered="false" class="livejasmin--hokV7OR3En8nGvA option--LawCgZ3iwscrHZb defaultTheme--woJ4rpFMSfXE_Bh" data-id="fr" data-testid="dropdown-option"><span>Français</span></div><div data-hovered="false" class="livejasmin--hokV7OR3En8nGvA option--LawCgZ3iwscrHZb defaultTheme--woJ4rpFMSfXE_Bh" data-id="en" data-testid="dropdown-option"><span>English</span></div><div data-hovered="false" class="livejasmin--hokV7OR3En8nGvA option--LawCgZ3iwscrHZb selected--dmYwQesZIs5AbNa defaultTheme--woJ4rpFMSfXE_Bh" data-id="es" data-testid="dropdown-option"><span>Español</span></div><div data-hovered="false" class="livejasmin--hokV7OR3En8nGvA option--LawCgZ3iwscrHZb defaultTheme--woJ4rpFMSfXE_Bh" data-id="de" data-testid="dropdown-option"><span>Deutsch</span></div><div data-hovered="false" class="livejasmin--hokV7OR3En8nGvA option--LawCgZ3iwscrHZb defaultTheme--woJ4rpFMSfXE_Bh" data-id="it" data-testid="dropdown-option"><span>Italiano</span></div><div data-hovered="false" class="livejasmin--hokV7OR3En8nGvA option--LawCgZ3iwscrHZb defaultTheme--woJ4rpFMSfXE_Bh" data-id="pt" data-testid="dropdown-option"><span>Português</span></div><div data-hovered="false" class="livejasmin--hokV7OR3En8nGvA option--LawCgZ3iwscrHZb defaultTheme--woJ4rpFMSfXE_Bh" data-id="nl" data-testid="dropdown-option"><span>Nederlands</span></div><div data-hovered="false" class="livejasmin--hokV7OR3En8nGvA option--LawCgZ3iwscrHZb defaultTheme--woJ4rpFMSfXE_Bh" data-id="sv" data-testid="dropdown-option"><span>Svenska</span></div><div data-hovered="false" class="livejasmin--hokV7OR3En8nGvA option--LawCgZ3iwscrHZb defaultTheme--woJ4rpFMSfXE_Bh" data-id="no" data-testid="dropdown-option"><span>Norwegian</span></div><div data-hovered="false" class="livejasmin--hokV7OR3En8nGvA option--LawCgZ3iwscrHZb defaultTheme--woJ4rpFMSfXE_Bh" data-id="da" data-testid="dropdown-option"><span>Dansk</span></div><div data-hovered="false" class="livejasmin--hokV7OR3En8nGvA option--LawCgZ3iwscrHZb defaultTheme--woJ4rpFMSfXE_Bh" data-id="fi" data-testid="dropdown-option"><span>Suomi</span></div><div data-hovered="false" class="livejasmin--hokV7OR3En8nGvA option--LawCgZ3iwscrHZb defaultTheme--woJ4rpFMSfXE_Bh" data-id="ja" data-testid="dropdown-option"><span>日本語</span></div><div data-hovered="false" class="livejasmin--hokV7OR3En8nGvA option--LawCgZ3iwscrHZb defaultTheme--woJ4rpFMSfXE_Bh" data-id="ru" data-testid="dropdown-option"><span>Pусский</span></div><div data-hovered="false" class="livejasmin--hokV7OR3En8nGvA option--LawCgZ3iwscrHZb defaultTheme--woJ4rpFMSfXE_Bh" data-id="hu" data-testid="dropdown-option"><span>Magyar</span></div><div data-hovered="false" class="livejasmin--hokV7OR3En8nGvA option--LawCgZ3iwscrHZb defaultTheme--woJ4rpFMSfXE_Bh" data-id="cs" data-testid="dropdown-option"><span>Český</span></div><div data-hovered="false" class="livejasmin--hokV7OR3En8nGvA option--LawCgZ3iwscrHZb defaultTheme--woJ4rpFMSfXE_Bh" data-id="sk" data-testid="dropdown-option"><span>Slovenských</span></div><div data-hovered="false" class="livejasmin--hokV7OR3En8nGvA option--LawCgZ3iwscrHZb defaultTheme--woJ4rpFMSfXE_Bh" data-id="ro" data-testid="dropdown-option"><span>Română</span></div><div data-hovered="false" class="livejasmin--hokV7OR3En8nGvA option--LawCgZ3iwscrHZb defaultTheme--woJ4rpFMSfXE_Bh" data-id="pl" data-testid="dropdown-option"><span>Polski</span></div><div data-hovered="false" class="livejasmin--hokV7OR3En8nGvA option--LawCgZ3iwscrHZb defaultTheme--woJ4rpFMSfXE_Bh" data-id="zh" data-testid="dropdown-option"><span>简体中文</span></div></div></div></div></div></div></footer></div>
+            <!-- FOOTER END -->
+        </div>
+
+        <div id="overlayContainer">
+            <div id="overlay"></div>
+            <div>
+                <div class="overlayContent"></div>
+            </div>
+        </div>
+        <div id="react_overlay"></div>
+        <div id="mvc_overlay_container"></div>
+        <div id="mvc_overlay"></div>
+        <div class="react-root" data-react-component="ServiceAgreementConsentModal" data-react-component-path="src/pages/Shared"></div>
+
+                <script type="application/javascript">window.__wpp__ = "https://staticx1.dditscdn.com/msc/jasmin/";</script>
+                <script type="text/javascript" src="https://staticx2.dditscdn.com/msc/jasmin/ExtCore.js"></script>
+<script type="text/javascript" src="https://staticx1.dditscdn.com/msc/jasmin/vendor.be8cafc69ce6.js"></script>
+
+<script type="text/javascript" id="">(function(a,c,e,f,d,b){a.hj=a.hj||function(){(a.hj.q=a.hj.q||[]).push(arguments)};a._hjSettings={hjid:936320,hjsv:6};d=c.getElementsByTagName("head")[0];b=c.createElement("script");b.async=1;b.src=e+a._hjSettings.hjid+f+a._hjSettings.hjsv;d.appendChild(b)})(window,document,"https://static.hotjar.com/c/hotjar-",".js?sv\x3d");</script><script type="text/javascript" src="https://staticx2.dditscdn.com/msc/jasmin/styles.cebd93f2906d.js"></script>
+<script type="text/javascript" src="https://staticx1.dditscdn.com/msc/jasmin/app.f7c6450e0aac.js"></script>
+        <script type="text/javascript">
+    Object.assign(window.GlobalConfig, {
+	globalDataObj: {
+		"emptySelectOption" : "Elige por favor",
+		"geoIpData"         : {
+			"country"     : "CO",
+			"state"       : "ANT",
+			"city"        : "Envigado",
+			"nationality" : 46		},
+		"charCounterText"   : {
+			"singular"  : 'quedan <span ></span> caracteres',
+			"plural"    : 'quedan <span ></span> caracteres'
+		},
+		"firstLoginTooltip" : {
+			"firstLoginTooltipTemplate" :  "<div id=\"\" class=\"firstLoginContainer\">\n\t<div class=\"tooltip\">\n\t\t<span class=\"arrow\">&nbsp;<\/span>\n\t\t<span class=\"icon hugeInfo\">&nbsp;<\/span>\n\t\t<p><\/p>\n\t\t<a href=\"#\" id=\"firstLoginContainerClose\">\n\t\t\t<span  class=\"icon closeTooltip\">&nbsp;<\/span>\n\t\t<\/a>\n\t\t<div class=\"clear\"><\/div>\n\t<\/div>\n<\/div>\n",
+			"firstLoginTooltipText"     : 'Puede cambiar de perfil o cambiar su configuración personal en cualquier momento con la lista desplegable aquí'
+		}
+	}
+});
+Object.assign(window.GlobalConfig, {
+	emailValidationUrl : '/es/check-email',
+	screenNameValidationUrl : '/es/check-screen-name',
+	cityService : '/es/get-city-list'
+});
+Object.assign(window.GlobalConfig, {
+	MWHMediaUploadURL : 'https://ip-109-71-161-120.dditscdn.com/media/upload',
+	ChannelPhotoValidation : {"extensions":["jpg","jpeg","png"],"resolution":{"min_width":720,"min_height":720},"size":{"max":10485760}},
+	ChannelVideoValidation : {"extensions":["avi","mpeg","mpg","mov","flv","f4v","mp4","mkv"],"size":{"max":2147483648}},
+	SelfInvoiceValidation : {"extensions":["pdf"],"size":{"max":2097152}},
+	IdValidation : {"extensions":["jpg","jpeg","png","bmp"],"size":{"max":15728640},"resolution":{"min_width":250,"min_height":250}},
+	Au10tixIdValidation : {"extensions":["jpg","jpeg","png","bmp"],"size":{"max":15728640},"resolution":{"min_width":640,"min_height":480}},
+	EroticTeaserValidation : {"extensions":["avi","mpeg","mpg","mov","flv","f4v","mp4","mkv"],"size":{"max":2147483648}},
+	SnapshotValidation : {"extensions":["jpg","jpeg","png","bmp"],"size":{"max":15728640},"resolution":{"min_width":320,"min_height":240}},
+	AttachmentValidation : {"extensions":["bmp","doc","gif","jpe","jpeg","jpg","pcx","pdf","png","tif","tiff","txt","xls","xml"],"size":{"max":3670016,"total":5767168},"filename":{"max":30}},
+	MessageMediaContentValidation : {"video":{"extensions":["avi","mpeg","mpg","mov","flv","f4v","mp4","mkv"],"size":{"max":367001600}},"image":{"extensions":["jpg","jpeg","png"],"size":{"max":15728640},"resolution":{"min_width":720,"min_height":720}}},
+	MessageVoiceContentValidation : {"extensions":["webm"]}});
+Object.assign(window.GlobalConfig, {
+	errorObj: {
+		"general" : {
+			"system_error"  : "Ha ocurrido un error."
+		},
+		"html5_uploader" : {
+			// Default error.
+			"default"              : "Ha ocurrido un error.",
+			// JS error
+			"file_limit_exceeded"  : "Límite de subida de archivos excedido.",
+			"filename_invalid"     : "El nombre del archivo no es válido.",
+			"filename_too_long"    : "Nombre de archivo es demasiado largo. Máxima {filenameMax} caracteres.",
+			"filename_too_short"   : "Nombre de archivo es demasiado corto. Mínimo{filenameMin} caracteres.",
+			"file_exists"          : "Algunos archivos en su selección ya están subidos.",
+			"total_size_exceeded"  : "El total permitido de tamaño ({totalSize} MB) esta escedido.",
+			"attachment_exists"    : "Advertencia, archivo ya subido. Por favor seleccione otro archivo si es necesario.",
+			"already_uploaded"     : "El archivo subido ya existe",
+			"file_size_too_big"    : "Tamaño del archivo demasiado grande, debe estar por debajo de {maxSize} MB!",
+			"file_size_too_small"  : "!Tamaño de archivo de medios es demasiado pequeño!",
+			"wrong_file_extension" : "El formato del archivo multimedia no es aceptable, debe ser : {extensions}!",
+			"image_is_portrait"    : "Invalid media format: The aspect ratio of the image should be portrait",
+			"image_min_width"      : "Ancho de la media es demasiado pequeño, debe estar por encima de: {minWidth}px!",
+			"image_min_height"     : "La atura de la media es demasiado pequeña, debe estar por encima de :{minHeight}px!",
+			"image_max_width"      : "El ancho de la media es demasiado grande, debe ser inferior a:{maxWidth}px!",
+			"image_max_height"     : "La altura de la media es demasiado grande , debe estar por debajo de:{maxHeight}px!",
+            "general_reload"       : "Ocurrió un error. Por favor, recarga la página o inténtalo de nuevo más tarde.",
+            "no_id_detected"       : "No se ha detectado ningún ID en la imagen.",
+            "no_face_detected"     : "No se detecta ningún rostro. Por favor, asegúrate de que tu rostro sea lo más grande posible.",
+		}
+	}
+});
+
+Object.assign(window.GlobalConfig, {
+	language                            : 'es',
+	signupLeaveText                     : 'Todos los datos que ha proporcionado han sido guardados. Usted puede continuar con el registro en cualquier momento. ¿Está seguro de salir ahora?',
+	routings                            : {"Index\/Index":"\/","Index\/Celebrity":"\/celebrity","Index\/CertifiedStudios":"\/certified-partners","Index\/PornStarInfo":"\/porn-star-info","Index\/Faq":"\/faq","Index\/RedirectToNativeAppStoreLink":"\/redirect-to-app-store","AccountSettings\/Index":"\/account-settings","AccountTooltip\/ShowMoreProfile":"\/account-tooltip\/show-more-profile","AchievementLeaders\/Index":"\/bestof\/topmodels","AchievementLeaders\/Season":"\/bestof\/topmodels\/{season:enum(spring|summer|autumn|finals)}","AchievementLeaders\/Oranum":"\/bestof\/topexperts","AchievementLeaders\/Winners":"\/bestof\/topmodels-winners","AchievementLeaders\/OranumWinners":"\/bestof\/topexperts-winners","AchievementLeaders\/OranumLastMonthWinners":"\/bestof\/topexperts-last-month-winners","AchievementLeadersInfo\/Index":"\/bestof\/topmodels-info","AjaxApi\/CheckEmail":"[POST]\/check-email","AjaxApi\/CheckScreenName":"[POST]\/check-screen-name","AjaxApi\/GetCityList":"[POST]\/get-city-list","AjaxApi\/CheckIntroductionSpam":"[POST]\/check-introduction-spam\/{screenName:any}","AjaxApi\/CheckReferrerName":"[POST]\/check-referrer-name","AjaxApi\/CheckPassword":"[POST]\/check-password","AjaxApi\/ValidateEmail":"[POST]\/validate-email","Asset\/GetIdPreviewImage":"\/asset\/get-preview-image\/id\/{userId:num}\/{pageNumber:num}\/{fileId:any}","Asset\/GetSnapshotPreviewImage":"\/asset\/get-preview-image\/snapshot\/{userId:num}\/{fileId:any}","AuthenticationApi\/LoginPost":"[POST]\/api\/login","AuthenticationApi\/ForgotPasswordPost":"[POST]\/api\/forgot-password","Authentication\/LoginPost":"[POST]\/login","Authentication\/Login":"\/login","Authentication\/LoginAdmin":"\/login-admin","Authentication\/AutoLogin":"\/auto-login\/{hash:any}","Authentication\/Logout":"\/logout","Authentication\/ForgotPasswordPost":"[POST]\/forgot-password","Authentication\/ForgotPassword":"\/forgot-password","Authentication\/ChangePasswordPost":"[POST]\/change-password\/user\/{userId:num}","Authentication\/ChangePassword":"\/change-password\/user\/{userId:num}","Authentication\/ResetPassword":"\/reset-password\/user\/{userId:num}","Authentication\/ConfirmEmail":"\/confirm-email\/user\/{userId:num}","Awards\/Index":"\/earn-more\/awards","Awards\/SalesAwards":"\/awards","AwardsInfo\/Index":"\/awards-info","TipsAndSurprisesEarnMore\/Index":"\/earn-more\/tips","ActionRequestsEarnMore\/Index":"\/earn-more\/action-requests","ActionRequestsEarnMore\/Special":"\/earn-more\/special-requests","BannedWordsSettings\/Add":"[POST]\/profile\/banned-words\/add","BannedWordsSettings\/Get":"\/profile\/banned-words\/list","BannedWordsSettings\/Remove":"[POST]\/profile\/banned-words\/remove","BannedWordsSettings\/Index":"\/profile\/banned-words","BroadcasterSoftware\/GetUpdateConfig":"\/broadcaster-software\/update-config\/{platform:any}\/{software:any}","JasminCamFiveSoftware\/GetUpdateConfig":"\/jasmincamfive-software\/update-config\/{platform:any}\/{software:any}","OranumCamFiveSoftware\/GetUpdateConfig":"\/oranumcamfive-software\/update-config\/{platform:any}\/{software:any}","Cam2Cam\/Index":"\/earn-more\/cam-to-cam","Cam2CamSettings\/SavePrice":"[POST]\/cam-to-cam\/save-price","Captcha\/Refresh":"[POST]\/captcha\/{action:*}\/{captchaId:any}\/refresh","Captcha\/Display":"\/captcha\/{action:*}\/{captchaId:any}\/display","Captcha\/Get":"\/captcha\/get\/{action:*}\/{captchaId:any}","ChangeEmail\/ChangeEmailPost":"[POST]\/account-settings\/change-email","ChangeEmail\/ChangeEmail":"\/account-settings\/change-email","ChangeEmail\/ResendConfirmEmail":"\/account-settings\/resend-confirm-email","ChangePassword\/ChangePasswordPost":"[POST]\/account-settings\/change-password","ChangePassword\/ChangePassword":"\/account-settings\/change-password","ClubElite\/Index":"\/earn-more\/club-elite","Company\/AddInformationPost":"[POST]\/company\/register\/add-information","Company\/AddInformation":"\/company\/register\/add-information","Company\/AddRegisteredIndividualInformationPost":"[POST]\/company\/register\/add-registered-individual-information","Company\/AddRegisteredIndividualInformation":"\/company\/register\/add-registered-individual-information","Company\/ManagingDirectorRegistrationPost":"[POST]\/company\/register\/managing-director-registration","Company\/ManagingDirectorRegistration":"\/company\/register\/managing-director-registration","Company\/ManagingDirectorEdit":"\/company\/register\/edit-managing-director","Company\/ManagingDirectorDelete":"[POST]\/company\/register\/delete-managing-director","Company\/FinishRegistration":"\/company\/register\/finish","Company\/FinishRegisteredIndividualRegistration":"\/company\/register\/finish-registered-individual","Company\/GetManagingDirectorList":"\/company\/get-managing-director-list","Company\/Navigate":"\/company\/register\/{currentStep:any}\/{navigationType:any}","Company\/Data":"\/company\/data","Company\/CompanyDataOverlay":"\/company\/data-overlay","Company\/ManagingDirectorDataOverlay":"\/company\/managing-director-data\/{editedId:num}","ConfirmDialog\/Show":"\/confirm-dialog\/show","ConsentSettings\/MarketingCommunicationSubscribe":"\/consent-settings\/marketing\/subscribe","ConsentSettings\/MarketingCommunicationUnsubscribe":"\/consent-settings\/marketing\/unsubscribe","ConsentSettings\/SensitiveDataCollectStart":"\/consent-settings\/sensitive-data\/collect\/start","ConsentSettings\/SensitiveDataCollectStop":"\/consent-settings\/sensitive-data\/collect\/stop","ConsentSettings\/PasswordConfirmationOverlayPost":"[POST]\/consent-settings\/sensitive-data\/stop\/confirm","ConsentSettings\/SensitiveDataCollectStartProcess":"\/consent-settings\/sensitive-data\/stop\/confirm","ConsentSettings\/ForceSensitiveDataCollectionStopPost":"[POST]\/consent-settings\/sensitive-data\/overlay\/stop","ConsentSettings\/ForceSensitiveDataCollectionOverlay":"\/consent-settings\/sensitive-data\/overlay","ConsentSettings\/PasswordConfirmationOverlay":"[GET]\/consent-settings\/sensitive-data\/confirm","CrossLoginNotification\/Index":"\/cross-login\/notification\/{site:enum(livejasmin|lj|jasmin|bimbim|oranum|docler)}","Dashboard\/Index":"\/dashboard","Dashboard\/InstallGuideOverlay":"\/dashboard\/install-guide","Dashboard\/FirstSingleLoginOverlay":"\/dashboard\/first-single-login","DataDownload\/ConfirmationOverlayPost":"[POST]\/data-download\/confirm","DataDownload\/ConfirmationOverlay":"\/data-download\/confirm","EroticTeasers\/Index":"\/earn-more\/erotic-teasers","EroticTeasers\/Promo":"\/earn-more\/promo-teasers","VideoAds\/Index":"\/earn-more\/video-ads","Error\/404":"\/error\/404","Error\/500":"\/error\/500","Error\/503":"\/error\/503","Error\/AjaxRedirect":"\/error\/ajax-redirect","Event\/RefreshSession":"\/session\/refresh","ExclusiveModel\/Index":"\/earn-more\/exclusive-model","ExclusiveModel\/Request":"[POST]\/earn-more\/exclusive-model\/request","ExclusiveModel\/Remove":"[POST]\/earn-more\/exclusive-model\/remove","ForgetData\/Index":"\/privacy-rights\/forget-data","ForgetData\/StartProcessOverlay":"[GET]\/privacy-rights\/forget-data\/start","ForgetData\/PasswordConfirmationOverlayPost":"[POST]\/privacy-rights\/forget-data\/confirm","ForgetData\/PasswordConfirmationOverlay":"[GET]\/privacy-rights\/forget-data\/confirm","ForgetDataConfirmation\/ConfirmationEmailSent":"[GET]\/privacy-rights\/forget-data\/email-sent","ForgetDataConfirmation\/Approve":"[GET]\/privacy-rights\/forget-data\/approve\/{rawToken:*}","ForgetDataConfirmation\/Decline":"[GET]\/privacy-rights\/forget-data\/decline\/{rawToken:*}","ForgetDataConfirmation\/Error":"[GET]\/privacy-rights\/forget-data\/error","Help\/News":"\/help\/news","Help\/LevelDependentPayment":"\/help\/income-shares","Help\/Rules":"\/help\/rules","Help\/Payinfo":"\/payout\/payinfo","InternalDashboard\/Index":"\/internal","InternalCron\/RunJob":"[POST]\/internal\/cron:runJob","InternalCron\/Index":"[GET]\/internal\/cron","InternalCache\/KillCache":"\/internal\/kill-cache","InternalCache\/ReadCache":"\/internal\/read-cache","InternalMotivator\/Index":"\/internal\/motivator","InternalMotivator\/ExecuteAction":"\/internal\/motivator\/execute-action","InternalPerformerSearch\/Index":"\/internal\/performer-search","InternalSynchronization\/IndexPost":"[POST]\/internal\/synchronize-entity\/{entityType:enum(performer|person|studio)}","InternalSynchronization\/Index":"[GET]\/internal\/synchronize-entity\/{entityType:enum(performer|person|studio)}","InternalGuestSession\/Index":"[GET]\/internal\/session\/guest","InternalGuestSession\/GuestCleanup":"[POST]\/internal\/session\/guest-cleanup","InternalPerformerSession\/Index":"[GET]\/internal\/session\/performer-session\/search","InternalPerformerSession\/Read":"[GET]\/internal\/session\/performer-session\/view","InternalAccountIdFix\/Index":"[GET]\/internal\/performer-account-id-fix","InternalAccountIdFix\/FixAccountId":"\/internal\/performer-account-id-fix\/execute","IntroductionSettings\/Index":"\/profile\/introduction","IntroductionSettings\/Save":"[POST]\/profile\/introduction\/save","IdentificationProcess\/CompanyDataChangeStart":"\/company\/data\/change-start","IdentificationProcess\/CompanyDataChangePost":"[POST]\/company\/data\/change\/{key:*}\/{stepName:*}","IdentificationProcess\/CompanyDataChange":"\/company\/data\/change\/{key:*}\/{stepName:*}","IncomeStatistics\/Index":"\/payout\/income-statistics","IncomeStatistics\/PerformerDetails":"\/payout\/income-statistics\/performer-details","Invoice\/Download":"\/payout\/invoice\/download\/{invoiceType:any}\/{documentId:num}","InvoiceUpload\/IndexV2":"[POST]\/v2\/payout\/invoice\/upload\/{userId:num}\/{payoutDate:any}\/{companyId:num}","KingOfTheRoom\/Index":"\/earn-more\/king-of-the-room","MessengerIntroduction\/Index":"\/earn-more\/messenger-introduction","LimitedStudioAccess\/SetLimitedAccess":"\/account-settings\/set-limited-access","LimitedStudioAccess\/ChangeLimitedPasswordPost":"[POST]\/account-settings\/change-limited-password","LimitedStudioAccess\/ChangeLimitedPassword":"\/account-settings\/change-limited-password","LiveShowSetting\/SavePrice":"[POST]\/live-show\/save-price","Maintenance\/Index":"\/maintenance","MemberInteraction\/GetHistory":"\/members\/{memberId:num}\/interactions","Members\/GetSpendings":"\/members\/{memberId:num}\/spendings","Members\/FanClub":"\/statistics\/fan-club","MemberProfile\/ProfileByName":"\/members\/profile-by-name\/{memberName:*}","MemberProfile\/ProfileById":"\/members\/profile-by-id\/{accountingId:num}","MemberProfile\/NotesPost":"[POST]\/members\/notes","MemberProfile\/Notes":"\/members\/notes","MemberProfile\/DeleteNote":"\/members\/delete-note","MemberReferral\/Index":"\/referrals\/member-referral","ModelReferral\/Index":"\/referral","MemberReferral\/SendEmail":"[POST]\/earn-more\/member-referral\/send-email","MemberReferral\/GetStatisticList":"\/earn-more\/member-referral\/get-statistic-list","MemberMessageSetting\/SavePrice":"[POST]\/member-message\/save-price","MessageSendFromOverlay\/IndexPost":"[POST]\/messenger\/message\/overlay\/{partnerId:num}\/{partnerName:any}\/send","MessageSendFromOverlay\/Index":"\/messenger\/message\/overlay\/{partnerId:num}\/{partnerName:any}\/send","MessagingStreak\/Index":"\/earn-more\/messaging-streak","Nautilus\/MyAccounts":"\/my-accounts","Nautilus\/PerformerDirectPayout":"\/direct-payout","Nautilus\/ScheduledShows":"\/scheduled-shows","Nautilus\/Settings":"\/settings","Nautilus\/StatisticsPayingMembers":"\/statistics\/paying-members","Nautilus\/StatisticsPayingMembersProfile":"\/statistics\/paying-members\/{memberId:num}\/profile","Nautilus\/StatisticsPayingMembersNotes":"\/statistics\/paying-members\/{memberId:num}\/notes","Nautilus\/StudioDirectPayout":"\/payout\/direct-payout","Nautilus\/Performance":"\/performance\/traffic-score","LiveMessenger\/AutomatedMessages":"\/messenger\/automated-messages","LiveMessenger\/Thread":"\/messenger\/current-chats\/{threadId:num}","LiveMessenger\/ThreadList":"\/messenger\/current-chats","LiveMessenger\/Recommended":"\/messenger\/recommended\/{partnerId:num}","LiveMessenger\/RecommendedList":"\/messenger\/recommended","LiveMessenger\/Index":"\/messenger","MessageSendAfterPrivate\/Send":"[POST]\/messages\/{performerId:num}\/after-private\/send","SupportMessenger\/ListMessages":"\/support-messenger\/{filterType:enum(support|system)}\/{folderType:enum(inbox|sent|trash)}","SupportMessenger\/ReadMessage":"\/support-messenger\/{filterType:enum(support|system)}\/{folderType:enum(inbox|sent|trash)}\/{messageId:num}","SupportMessenger\/NewMessagePost":"[POST]\/support-messenger\/{filterType:enum(support|system)}\/send","SupportMessenger\/NewMessage":"\/support-messenger\/{filterType:enum(support|system)}\/send","SupportMessenger\/ReplyMessagePost":"[POST]\/support-messenger\/{filterType:enum(support|system)}\/inbox\/{messageId:num}\/reply","SupportMessenger\/ReplyMessage":"\/support-messenger\/{filterType:enum(support|system)}\/inbox\/{messageId:num}\/reply","SupportMessengerAttachment\/CreateTokens":"[POST]\/support-messenger\/{filterType:enum(support|system)}\/attachments\/upload-tokens","SupportMessengerAttachment\/Find":"[GET]\/support-messenger\/{filterType:enum(support|system)}\/attachments\/find","SupportMessengerTrash\/MoveToTrash":"[POST]\/support-messenger\/{filterType:enum(support|system)}\/move-to-trash","SupportMessengerTrash\/RestoreFromTrash":"\/support-messenger\/{filterType:enum(support|system)}\/restore-from-trash","SupportMessengerTrash\/DeleteFromTrash":"\/support-messenger\/{filterType:enum(support|system)}\/delete-from-trash","SupportMessengerTrash\/EmptyTrash":"[POST]\/support-messenger\/{filterType:enum(support|system)}\/empty-trash","Migration\/ChoosePersonPost":"[POST]\/migration\/choose-person","Migration\/ChoosePerson":"\/migration\/choose-person","Migration\/GoToLogin":"\/migration\/go-to-login","Migration\/Login":"\/migration\/login","Migration\/FinishProcessPost":"[POST]\/migration\/finish-process","Migration\/FinishProcess":"\/migration\/finish-process","DisplayNameChange\/Overlay":"\/display-name-change\/overlay","DisplayNameChange\/OverlayPost":"[POST]\/display-name-change\/update","Models\/SignupPersonFlowPost":"[POST]\/models\/signup\/{performerId:num}\/{stepName:*}","Models\/SignupPersonFlow":"\/models\/signup\/{performerId:num}","Models\/CreateModelPost":"[POST]\/models\/create-model","Models\/CreateModel":"\/models\/create-model","Models\/FirstSingleLoginOverlay":"\/models\/first-single-login","Models\/ListPersonCards":"\/models\/list-person-cards\/{performerId:num}","Models\/ResetPasswordDone":"\/models\/reset-password\/done\/{performerId:num}","Models\/ResetPasswordPost":"[POST]\/models\/reset-password\/{performerId:num}","Models\/ResetPassword":"\/models\/reset-password\/{performerId:num}","Models\/GetStepStatusInformation":"\/models\/get-step-status-information\/{performerId:num}\/{userId:num}","Models\/ChooseExistingPersonPost":"[POST]\/models\/choose-existing-person\/{performerId:num}","Models\/ChooseExistingPerson":"\/models\/choose-existing-person\/{performerId:num}","Models\/FinishPerformerMigrationPost":"[POST]\/models\/finish-performer-migration\/{performerId:num}","Models\/FinishPerformerMigration":"\/models\/finish-performer-migration\/{performerId:num}","Models\/ViewStepData":"\/models\/{performerId:num}\/{userId:num}\/{stepName:*}","Models\/SetModelStatus":"[POST]\/models\/set-model-status","Models\/SetModelStatisticsVisibility":"[POST]\/models\/set-model-statistics-visibility","Models\/SetModelMobileLive":"[POST]\/models\/set-model-mobile-live","Models\/SetModelVideoCall":"[POST]\/models\/set-model-video-call","Models\/CloseModelDialog":"\/models\/close-model-dialog\/{performerId:num}","Models\/CloseModel":"[POST]\/models\/close-model\/{performerId:num}","Models\/GetInformationTab":"\/models\/get-information-tab\/{performerId:num}","Models\/GetStatisticsTab":"\/models\/get-statistics-tab\/{performerId:num}","Models\/GetSettingsTab":"\/models\/get-settings-tab\/{performerId:num}","Models\/FirstLoginOverlay":"\/models\/first-login","Models\/SkipEmailConfirmation":"[POST]\/models\/skip-email-confirmation","Models\/ResendConfirmEmail":"\/models\/signup\/resend-confirmation-email","Models\/Index":"\/models","MobileApp\/InstallGuide":"\/mobile-app\/install-guide","MobileApp\/DownloadGuideOverlay":"\/mobile-app\/download-guide-overlay","BeMyFan\/Index":"\/earn-more\/bemyfan","MobileLive\/Index":"\/earn-more\/mobile-live","PrivateShows\/Index":"\/earn-more\/private-sessions","InteractiveToyEarnMore\/Index":"\/earn-more\/interactive-toy","FanClubEarnMore\/Index":"\/earn-more\/fan-club","SoldierAidEarnMore\/Index":"\/earn-more\/soldier-aid","LoyalfansEarnMore\/Index":"\/earn-more\/loyalfans","Loyalfans\/Index":"\/loyalfans","MusicLibrary\/Index":"\/music-library","MusicLibrary\/Playlist":"\/music-library\/playlist\/{playlistName:any}","MusicLibrary\/Search":"\/music-library\/search","MusicLibrary\/Favorites":"\/music-library\/favorites","MyContentFreeEditor\/Index":"\/my-content\/editor\/free","MyContentPremiumEditor\/Index":"\/my-content\/editor\/premium","MyContentDocumentEditorAction\/ChangeTitle":"[GET]\/my-content\/editor\/document\/change-title\/{contentId:any}","MyContentDocumentEditorAction\/PostChangeTitle":"[POST]\/my-content\/editor\/document\/change-title","MyContentFolderEditorAction\/ChangeTitle":"[GET]\/my-content\/editor\/folder\/change-title\/{contentId:any}","MyContentFolderEditorAction\/PostChangeTitle":"[POST]\/my-content\/editor\/folder\/change-title","MyContentFolderCreateAction\/Create":"[GET]\/my-content\/editor\/folder\/create","MyContentFolderCreateAction\/PostCreate":"[POST]\/my-content\/editor\/folder\/create","MyContentFolderDeleteAction\/Delete":"[GET]\/my-content\/editor\/folder\/delete\/{contentId:any}","MyContentFolderDeleteAction\/PostDelete":"[POST]\/my-content\/editor\/folder\/delete","MyContentDocumentDeleteAction\/Delete":"[GET]\/my-content\/editor\/document\/delete\/{contentId:any}","MyContentDocumentDeleteAction\/PostDelete":"[POST]\/my-content\/editor\/document\/delete","MyContentFolderPriceAction\/Set":"[GET]\/my-content\/editor\/folder\/set-price\/{contentId:any}","MyContentFolderPriceAction\/PostSet":"[POST]\/my-content\/editor\/folder\/set-price","MyContentDocumentPriceAction\/Set":"[GET]\/my-content\/editor\/document\/set-price\/{contentId:any}","MyContentDocumentPriceAction\/PostSet":"[POST]\/my-content\/editor\/document\/set-price","MyContentNote\/Create":"[POST]\/my-content\/editor\/note\/create","MyContentNote\/Edit":"[POST]\/my-content\/editor\/note\/edit","MyContentDocumentPromotionAction\/Enable":"[GET]\/my-content\/editor\/document\/promotion\/enable\/{contentId:any}","MyContentDocumentPromotionAction\/Disable":"[GET]\/my-content\/editor\/document\/promotion\/disable\/{contentId:any}","MyContentDocumentPromotionAction\/PostEnable":"[POST]\/my-content\/editor\/document\/promotion\/enable\/{contentId:any}","MyContentDocumentPromotionAction\/PostDisable":"[POST]\/my-content\/editor\/document\/promotion\/disable\/{contentId:any}","MyContentDocumentPromotionAction\/PromoVideoOverlay":"\/my-content\/editor\/document\/promotion\/overlay","MyContentStories\/Index":"\/my-content\/stories","MyContentShorts\/Free":"\/my-content\/shorts\/free","MyContentShorts\/Premium":"\/my-content\/shorts\/premium","MyContentShorts\/OverlayFree":"\/my-content\/shorts\/free\/{shortId:any}","MyContentShorts\/OverlayPremium":"\/my-content\/shorts\/premium\/{shortId:any}","Snapshot\/ListAlbums":"\/my-content\/paying-snapshot","Snapshot\/ShowMoreAlbum":"\/my-content\/paying-snapshot\/show-more-album\/{order:any}\/{page:num}","Snapshot\/ListImages":"\/my-content\/paying-snapshot\/{memberName:any}","Snapshot\/ShowMoreImages":"\/my-content\/paying-snapshot\/show-more-snapshot\/{memberName:any}\/{page:num}","Snapshot\/LargeOverlay":"\/my-content\/paying-snapshot\/snapshot\/{memberName:any}\/{id:num}","MyContentFreeEditor\/ChannelInfoOverlay":"\/my-content\/info-overlay\/free","MyContentDeleteDocumentAction\/Delete":"\/my-content\/edit\/document\/delete","MyContentDeleteConfirmAction\/Get":"\/my-content\/delete-confirm\/get","MyContentImageFolderBrowser\/GetContents":"\/my-content\/edit\/folder-browser\/image\/get\/{folderId:any}","MyContentImageFolder\/Create":"[POST]\/my-content\/edit\/image\/folder\/create","MyContentFolderEditorAction\/Delete":"[POST]\/my-content\/edit\/folder\/delete\/{folderId:any}","MyContentImageUploadToken\/Get":"\/my-content\/edit\/upload\/upload-token\/image\/get","MyContentVideoUploadToken\/Get":"\/my-content\/edit\/upload\/upload-token\/video\/get","MyContentDocumentStatus\/GetStatuses":"\/my-content\/edit\/upload\/document-status\/get-statuses","MyContentComment\/GetList":"\/my-content\/comment\/get-list\/{parentId:any}\/{lastItemTimeStamp:num}","MyContentComment\/Create":"[POST]\/my-content\/comment\/create","MyContentComment\/Delete":"[POST]\/my-content\/comment\/delete","MyContentPostDetails\/Index":"\/my-content\/post-details\/get\/{currentDocumentId:any}","MyContentPostDetails\/Get":"\/my-content\/post-details\/getdata\/{currentDocumentId:any}","MyContentNextPostDetails\/Index":"\/my-content\/post-details\/next\/get\/{currentDocumentId:any}\/{folder:any}","MyContentNextPostDetails\/Get":"\/my-content\/post-details\/next\/getdata\/{currentDocumentId:any}\/{folder:any}","MyContentPreviousPostDetails\/Index":"\/my-content\/post-details\/previous\/get\/{currentDocumentId:any}\/{folder:any}","MyContentPreviousPostDetails\/Get":"\/my-content\/post-details\/previous\/getdata\/{currentDocumentId:any}\/{folder:any}","MyContentCarouselPostDetails\/Index":"\/my-content\/post-details\/carousel\/get\/{currentDocumentId:any}","MyContentImageRotation\/Rotate":"[POST]\/my-content\/edit\/image\/rotate","MyContentGalleryUrlHashResolver\/Get":"\/my-content\/gallery-url-hash-resolver\/get","MyContentImageRotationAction\/Rotate":"[POST]\/my-content\/editor\/image\/rotate","MyContentPremiumEditor\/ChannelInfoOverlay":"\/my-content\/info-overlay\/paying","MyContentPayingEditorImageContent\/Get":"\/my-content\/editor\/paying\/image\/get","MyContentPayingEditorVideoContent\/Get":"\/my-content\/editor\/paying\/video\/get","MyContentFreeEditorVideoContent\/Get":"\/my-content\/editor\/free\/video\/get","MyContentFreeEditorImageContent\/Get":"\/my-content\/editor\/free\/image\/get","MyContentEditor\/GetStatisticsForStatusBar":"\/my-content\/editor\/status-bar","MyContentImageFolder\/GetFolderIdByTipId":"\/my-content\/get-folder-id-by-tip-id\/{tipId:num}","MyStoryIntroduction\/Index":"\/earn-more\/my-story","BillingAddress\/Index":"\/payout\/billing-address","BillingAddress\/Save":"[POST]\/payout\/billing-address\/save","OAuth\/Create":"[POST]\/oauth2\/auth-codes","PayoutLimit\/ShowOverlay":"[GET]\/payout\/payout-limit-overlay","PayoutLimit\/Save":"[POST]\/payout\/payout-limit","PayoutCurrency\/ShowOverlay":"\/payout\/payout-currency-overlay","PayoutCurrency\/Save":"[POST]\/payout\/payout-currency","PayoutType\/ShowOverlay":"[GET]\/payout\/payout-type-overlay","PayoutType\/Save":"[POST]\/payout\/payout-type","PayoutWithdraw\/ShowOverlay":"[GET]\/payout\/payout-withdraw-overlay\/{payoutId:num}","PayoutWithdraw\/Save":"[POST]\/payout\/payout-withdraw-overlay\/{payoutId:num}","PayoutAutomaticWithdraw\/ShowOverlay":"[GET]\/payout\/payout-automatic-withdraw-enable-overlay","PayoutAutomaticWithdraw\/Save":"[POST]\/payout\/payout-automatic-withdraw","PayoutRequest\/ShowOverlay":"[GET]\/payout\/payout-request-create-overlay","PayoutRequest\/Save":"[POST]\/payout\/payout-request","AutoInvoice\/ShowOverlay":"[GET]\/payout\/auto-invoice-overlay","AutoInvoice\/Save":"[POST]\/payout\/auto-invoice","PayoutOptionsGeneral\/Index":"\/payout\/options\/general","PayoutOptions\/Index":"\/payout\/options\/details","PayoutOptions\/ChangeCancel":"\/payout\/options\/change\/cancel","PayoutOptions\/ChangeDialog":"\/payout\/options\/change-dialog","PayoutOptions\/ChangeStart":"\/payout\/options\/change\/start","PayoutOptions\/ChangePost":"[POST]\/payout\/options\/change\/{key:*}\/{stepName:*}","PayoutOptions\/Change":"\/payout\/options\/change\/{key:*}\/{stepName:*}","PayoneerPayout\/OverlayPost":"[POST]\/payout\/firstchoice\/{stepName:*}","PayoneerPayout\/Overlay":"\/payout\/firstchoice","PayPalPayout\/OverlayPost":"[POST]\/payout\/paypal\/{stepName:*}","PayPalPayout\/Overlay":"\/payout\/paypal","ChexxPayout\/OverlayPost":"[POST]\/payout\/chexx\/{stepName:*}","ChexxPayout\/Overlay":"\/payout\/chexx","PaxumPayout\/OverlayPost":"[POST]\/payout\/paxum\/{stepName:*}","PaxumPayout\/Overlay":"\/payout\/paxum","EpayservicePayout\/OverlayPost":"[POST]\/payout\/epayservice\/{stepName:*}","EpayservicePayout\/Overlay":"\/payout\/epayservice","WebmoneyPayout\/OverlayPost":"[POST]\/payout\/webmoney\/{stepName:*}","WebmoneyPayout\/Overlay":"\/payout\/webmoney","SkrillPayout\/OverlayPost":"[POST]\/payout\/skrill\/{stepName:*}","SkrillPayout\/Overlay":"\/payout\/skrill","PandabluePayout\/OverlayPost":"[POST]\/payout\/pandablue\/{stepName:*}","PandabluePayout\/Overlay":"\/payout\/pandablue","CosmoPayout\/OverlayPost":"[POST]\/payout\/cosmo\/{stepName:*}","CosmoPayout\/Overlay":"\/payout\/cosmo","TripleaPayout\/OverlayPost":"[POST]\/payout\/triplea\/{stepName:*}","TripleaPayout\/Overlay":"\/payout\/triplea","PagomundoPayout\/OverlayPost":"[POST]\/payout\/pagomundo\/{stepName:*}","PagomundoPayout\/Overlay":"\/payout\/pagomundo","Payout\/RecipientTypeSelectorPost":"[POST]\/payout\/recipient-type-selector","Payout\/RecipientTypeSelector":"\/payout\/recipient-type-selector","Payout\/IdUpload":"\/payout\/id-upload","Payout\/IdUploadPost":"[POST]\/payout\/id-upload\/{stepName:*}","PayoutOverview\/Index":"\/payout\/payout-overview","PersonalDataSettings\/Index":"\/profile\/personal-data","PersonalDataSettings\/Save":"[POST]\/profile\/personal-data\/save","PromotionTools\/Desktop":"[GET]\/promotion-tools\/{contentType:enum(erotic-teaser|promo-teaser|video-ads|video-call)}\/{orientation:enum(desktop)}","PromotionTools\/Mobile":"[GET]\/promotion-tools\/{contentType:enum(erotic-teaser|promo-teaser|video-ads|video-call)}\/{orientation:enum(mobile)}","PromotionTools\/VideoCall":"[GET]\/promotion-tools\/video-call","PromotionToolsToken\/Get":"[POST]\/promotion-tools\/{contentType:enum(erotic-teaser|promo-teaser|video-ads|video-call)}\/token","PromotionToolsContentList\/Get":"[GET]\/promotion-tools\/{contentType:enum(erotic-teaser|promo-teaser|video-ads|video-call)}\/{orientation:enum(portrait|landscape)}\/get","PromotionToolsContentStatus\/Get":"[GET]\/promotion-tools\/content\/{contentType:enum(erotic-teaser|promo-teaser|video-ads|video-call)}\/get-statuses","PromotionToolsContentStatus\/Update":"[POST]\/promotion-tools\/content\/{contentType:enum(erotic-teaser|promo-teaser|video-ads|video-call)}\/{contentId:num}","PromotionToolsContentStatus\/UpdateOverlay":"[GET]\/promotion-tools\/content\/{contentType:enum(erotic-teaser|promo-teaser|video-ads|video-call)}\/{contentId:num}","PushNotification\/Subscribe":"[POST]\/push-notification\/subscribe","Policy\/PrivacyPolicy":"\/privacy-policy","Policy\/EmailMarketingPrivacyPolicy":"\/privacy-policy-email-marketing","Policy\/CookiePolicy":"\/cookie-policy","Policy\/ServicesAgreement":"\/services-agreement","Policy\/CompanyServicesAgreement":"\/company\/services-agreement","Policy\/LiveStreamingServicesAgreement":"\/live-streaming-services-agreement","Policy\/SoftwareLicenceAgreement":"\/software-licence-agreement","PriceSettings\/Prices":"\/profile\/prices","PriceSettings\/PriceSettings":"\/profile\/prices","PriceSettings\/Actions":"\/profile\/action-requests","PriceSettings\/SpecialRequests":"\/profile\/special-requests","PrivacySettings\/CountryBan":"\/profile\/country-ban","PrivacySettings\/Index":"\/profile\/privacy","PrivacySettings\/GuestBanPost":"[POST]\/profile\/guest-ban","PrivacySettings\/MemberBanPost":"[POST]\/profile\/member-ban","PrivateGame\/Index":"\/earn-more\/private-game","PrivateShowDiscount\/Index":"\/earn-more\/private-show-discount","PrivateShowDiscount\/Oranum":"\/earn-more\/private-invitation","PromoPeriodReset\/ShowOverlay":"\/promo-period\/overlay","PromoPeriodReset\/Reset":"[POST]\/promo-period\/{performerId:num}\/reset","PropertySettings\/SetPayingSnapshots":"[POST]\/property-settings\/set-paying-snapshots","PropertySettings\/SetShowOtherAccountsPost":"[POST]\/property-settings\/set-show-other-accounts","PropertySettings\/SetReadReceiptsPost":"[POST]\/property-settings\/set-read-receipts","Profile\/SetManagedProfile":"\/profile\/select","ProfilePicture\/Index":"\/profile\/profile-picture","ProfilePicture\/NonExplicit":"\/profile\/profile-picture\/non-explicit","ProfilePicture\/Willingness":"\/profile\/profile-picture\/willingness","ProfilePictureMobileReCrop\/GetAlertOverlay":"\/profile-picture\/re-crop\/alert\/overlay","PromoVideoIntroduction\/Index":"\/earn-more\/promo-video","Protection\/Index":"\/earn-more\/protection","RewardsClub\/Index":"\/earn-more\/rewards-club","ScreenNameSuggestion\/Get":"\/suggestion\/screen-name\/get","Selection\/Index":"\/earn-more\/jasmin-selection","Signup\/ResendConfirmEmail":"\/signup\/resend-confirmation-email","Signup\/SignupFlowPost":"[POST]\/signup\/{stepName:*}","Signup\/SignupFlow":"\/signup\/{stepName:*}","Signup\/Index":"\/signup","SnapshooterOverlay\/Get":"\/snapshooter\/get","SocialWidget\/Refresh":"\/social-widget\/refresh","StatisticsDashboard\/Index":"\/statistics\/dashboard","StatisticsDashboard\/Studio":"\/statistics\/studio\/dashboard","StatisticsToken\/GenerateToken":"[POST]\/statistics\/dashboard\/generate-token","Statistics\/IncomeLevels":"\/statistics\/income-overview\/income-levels","Statistics\/PerformerLastTransactions":"\/statistics\/income-overview\/last-transactions","Statistics\/LastTransactions":"\/statistics\/income-overview\/{performerId:num}\/last-transactions","Statistics\/PerformerOverview":"\/statistics\/income-overview\/overview","Statistics\/Overview":"\/statistics\/income-overview\/{performerId:num}\/overview","Statistics\/PerformerTransactions":"\/statistics\/income-overview\/transactions\/{statType:any}","Statistics\/Transactions":"\/statistics\/income-overview\/{performerId:num}\/transactions\/{statType:any}","Statistics\/TransactionDetails":"\/statistics\/income-overview\/{performerId:num}\/transaction\/{transactionId:num}","Statistics\/SpendingMemberHistory":"\/statistics\/spending-member-history\/{partnerId:num}","SupportChat\/Index":"\/online-support-chat","SupportChat\/Topic":"\/online-support-chat\/topic\/{topic:any}","SupportChat\/RatingOverlay":"\/online-support\/rating\/{reporterType:any}\/{reporterName:any}","SupportChat\/SendRating":"\/online-support\/rating\/send","TopMember\/Index":"\/earn-more\/top-member","TwoWayAudioIntroduction\/Index":"\/earn-more\/two-way-audio","TwoWayAudioSetting\/SetStatus":"[POST]\/two-way-audio\/set-status","TwoWayAudioSetting\/SavePrice":"[POST]\/two-way-audio\/save-price","TwoWayAudioSetting\/SaveSpokenLanguage":"[POST]\/two-way-audio\/save-spoken-language","IdUpload\/Index":"\/upload\/id\/{userId:num}\/{pageNumber:num}","SnapshotUpload\/Index":"\/upload\/snapshot\/{userId:num}","SnapshotUpload\/Binary":"\/upload\/snapshot\/binary\/{userId:num}","VibraToy\/Index":"\/earn-more\/vibratoy","VideoCall\/Index":"\/call","VideoVoiceCallIntroduction\/Index":"\/earn-more\/video-call","VideoVoiceCallSetting\/SetStatus":"[POST]\/video-voice-call\/set-status","VideoVoiceCallSetting\/SavePrice":"[POST]\/video-voice-call\/save-price","TipChannelPhotoVisibilitySettings\/Update":"[POST]\/tip\/photo\/update-visibility","TipChannelVideoVisibilitySettings\/Update":"[POST]\/tip\/video\/update-visibility","WillingnessSettings\/Index":"\/profile\/willingness","WillingnessSettings\/Expertise":"\/profile\/expertise","WillingnessSettings\/Save":"[POST]\/profile\/willingness\/save","VipShow\/Index":"\/earn-more\/vip-show","VipShow\/Oranum":"\/earn-more\/group-session","SupplementalServicesAgreement\/Index":"[GET]\/influencers\/{performerNick:any}\/supplemental-services-agreement","SupplementalServicesAgreement\/Accept":"[POST]\/influencers\/supplemental-services-agreement","Redirect\/PayoutOption":"\/payout\/options","Redirect\/MyWebsite":"\/my-website","Redirect\/LevelDependentPayment":"\/help\/level-dependent-payment","Redirect\/MemberReferral":"\/earn-more\/member-referral","Redirect\/MessagesWall":"\/messages\/wall","Redirect\/PreviousServiceAgreement":"\/services-agreement\/previous","AppleAppSiteAssociation\/Get":"[GET]\/.well-known\/apple-app-site-association","Referrer\/Index":"\/{referrer:any}"},
+	device                              : {"isMacSafari":false,"isDesktop":true,"isMobile":false,"isTablet":false,"isDhWebView":false,"isAndroid":false,"isIOs":false},
+	baseUrl                             : 'https://modelcenter.livejasmin.com',
+	dummyFlashAppletSrc                 : 'https://staticx1.dditscdn.com/msc/jasmin/flash/common/ppap.swf',
+	willingnessRestrictions             : '[["shaved","hairy"]]',
+	dashboardLink                       : '/es/dashboard',
+	clipboardSwfUrl                     : 'https://staticx4.dditscdn.com/msc/jasmin/flash/common/copyToClipboard.swf',
+	videoPlayerFlashSrc                 : 'https://staticx4.dditscdn.com/msc/jasmin/flash/lib/player/videoplayer.swf',
+	advancedMediaControlFlashSrc        : 'https://staticx2.dditscdn.com/msc/jasmin/flash/mediacontrol/advancedmediacontrol_library.swf',
+	csrfToken : '41bb68748caeeb2d50e2f5250f9100d480e2368d',
+	hintTextObj                         : {
+		singular: 'quedan <span ></span> caracteres',
+		plural: 'quedan <span ></span> caracteres'
+	},
+	calendarObj                         : {
+		monthArray : ["Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre"],
+		dateFormat : 'y-m-d'
+	},
+	pushNotification                    : {
+		vapidPublicKey: 'BOhQNRmrRr3ehbs7YkH_7NwKmrND6EjEtsU3rljiIdJ6x10KOV1Jn4_3Xjns0X9D3Ge0xQ9cmWANhdRExvEfXVg'
+	}
+});
+
+window.App = new AppClass(window.GlobalConfig);
+</script>
+        
+        
+        <iframe id="_hjSafeContext_10375202" title="_hjSafeContext" tabindex="-1" aria-hidden="true" src="about:blank" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><iframe id="intercom-frame" style="position: absolute !important; opacity: 0 !important; width: 1px !important; height: 1px !important; top: 0 !important; left: 0 !important; border: none !important; display: block !important; z-index: -1 !important; pointer-events: none;" aria-hidden="true" tabindex="-1" title="Intercom"></iframe><div class="intercom-lightweight-app"><style id="intercom-lightweight-app-style" type="text/css">
+  @keyframes intercom-lightweight-app-launcher {
+    from {
+      opacity: 0;
+      transform: scale(0.5);
+    }
+    to {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+
+  @keyframes intercom-lightweight-app-gradient {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  @keyframes intercom-lightweight-app-messenger {
+    0% {
+      opacity: 0;
+      transform: scale(0);
+    }
+    40% {
+      opacity: 1;
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+
+  .intercom-lightweight-app {
+    position: fixed;
+    z-index: 2147483001;
+    width: 0;
+    height: 0;
+    font-family: intercom-font, "Helvetica Neue", "Apple Color Emoji", Helvetica, Arial, sans-serif;
+  }
+
+  .intercom-lightweight-app-gradient {
+    position: fixed;
+    z-index: 2147483002;
+    width: 500px;
+    height: 500px;
+    bottom: 0;
+    right: 0;
+    pointer-events: none;
+    background: radial-gradient(
+      ellipse at bottom right,
+      rgba(29, 39, 54, 0.16) 0%,
+      rgba(29, 39, 54, 0) 72%);
+    animation: intercom-lightweight-app-gradient 200ms ease-out;
+  }
+
+  .intercom-lightweight-app-launcher {
+    position: fixed;
+    z-index: 2147483003;
+    padding: 0 !important;
+    margin: 0 !important;
+    border: none;
+    bottom: 20px;
+    right: 20px;
+    max-width: 48px;
+    width: 48px;
+    max-height: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: #C00000;
+    cursor: pointer;
+    box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.06), 0 2px 32px 0 rgba(0, 0, 0, 0.16);
+    transition: transform 167ms cubic-bezier(0.33, 0.00, 0.00, 1.00);
+    box-sizing: content-box;
+  }
+
+
+  .intercom-lightweight-app-launcher:hover {
+    transition: transform 250ms cubic-bezier(0.33, 0.00, 0.00, 1.00);
+    transform: scale(1.1)
+  }
+
+  .intercom-lightweight-app-launcher:active {
+    transform: scale(0.85);
+    transition: transform 134ms cubic-bezier(0.45, 0, 0.2, 1);
+  }
+
+
+  .intercom-lightweight-app-launcher:focus {
+    outline: none;
+
+    
+  }
+
+  .intercom-lightweight-app-launcher-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 48px;
+    height: 48px;
+    transition: transform 100ms linear, opacity 80ms linear;
+  }
+
+  .intercom-lightweight-app-launcher-icon-open {
+    
+        opacity: 1;
+        transform: rotate(0deg) scale(1);
+      
+  }
+
+  .intercom-lightweight-app-launcher-icon-open svg {
+    width: 24px;
+    height: 24px;
+  }
+
+  .intercom-lightweight-app-launcher-icon-open svg path {
+    fill: rgb(255, 255, 255);
+  }
+
+  .intercom-lightweight-app-launcher-icon-self-serve {
+    
+        opacity: 1;
+        transform: rotate(0deg) scale(1);
+      
+  }
+
+  .intercom-lightweight-app-launcher-icon-self-serve svg {
+    height: 44px;
+  }
+
+  .intercom-lightweight-app-launcher-icon-self-serve svg path {
+    fill: rgb(255, 255, 255);
+  }
+
+  .intercom-lightweight-app-launcher-custom-icon-open {
+    max-height: 24px;
+    max-width: 24px;
+
+    
+        opacity: 1;
+        transform: rotate(0deg) scale(1);
+      
+  }
+
+  .intercom-lightweight-app-launcher-icon-minimize {
+    
+        opacity: 0;
+        transform: rotate(-60deg) scale(0);
+      
+  }
+
+  .intercom-lightweight-app-launcher-icon-minimize svg path {
+    fill: rgb(255, 255, 255);
+  }
+
+  .intercom-lightweight-app-messenger {
+    position: fixed;
+    z-index: 2147483003;
+    overflow: hidden;
+    background-color: white;
+    animation: intercom-lightweight-app-messenger 250ms cubic-bezier(0, 1, 1, 1);
+    transform-origin: bottom right;
+
+    
+        width: 400px;
+        height: calc(100% - 40px);
+        max-height: 704px;
+        min-height: 250px;
+        right: 20px;
+        bottom: 20px;
+        box-shadow: 0 5px 40px rgba(0,0,0,0.16);
+      
+
+    border-radius: 16px;
+  }
+
+  .intercom-lightweight-app-messenger-header {
+    height: 64px;
+    border-bottom: none;
+    background: #c00000
+
+    
+  }
+
+  .intercom-lightweight-app-messenger-footer{
+    position:absolute;
+    bottom:0;
+    width: 100%;
+    height: 80px;
+    background: #fff;
+    font-size: 14px;
+    line-height: 21px;
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.05);
+    
+  }
+
+  @media print {
+    .intercom-lightweight-app {
+      display: none;
+    }
+  }
+</style></div></body></html>

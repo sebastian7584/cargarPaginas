@@ -10,7 +10,7 @@ def cargarDatosStreamate(dia,mes,año,db):
     if int(dia) <16:
         quincena=1  
     time.sleep(2)
-    ejemplo_dir= "C:\\Users\\usuario\\Documents\\olimpo\\cargar_paginas\\archivos"
+    ejemplo_dir= "D:\Proyectos\Olimpo Web\cargarPaginas\archivos"
     direct=[]
     directorio = pathlib.Path(ejemplo_dir)
     for fichero in directorio.iterdir():

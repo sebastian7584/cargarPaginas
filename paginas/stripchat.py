@@ -18,7 +18,7 @@ def cargarDatosStripchat(dia,mes,año,dia2,mes2,año2,db):
         'isVisitorsAgreementAccepted': '1',
         '_ga': 'GA1.2.1301892351.1681656050',
         '_gid': 'GA1.2.573934947.1682341133',
-        'stripchat_com_sessionId': 'aa56cf8d050be5c3da037a2d6744a86c8eb9afa0ab118e1f1bc3b616a376',
+        'stripchat_com_sessionId': '494a255bccb61ec80ace5fcd3be98891035da89b3085db29ed024a1447d5',
         'stripchat_com_sessionRemember': '1',
         '_gat': '1',
     }
@@ -37,7 +37,14 @@ def cargarDatosStripchat(dia,mes,año,dia2,mes2,año2,db):
         'TE': 'trailers',
     }
 
-    response = requests.get('https://es.stripchat.com/api/front/users/4650611/earnings?from='+año+'-'+mes+'-'+dia+'T05%3A00%3A00Z&until='+año2+'-'+mes2+'-'+dia2+'T04%3A59%3A59Z&uniq=1tkzc5a6jmiv0nhy', headers=headers, cookies=cookies)
+    params = {
+        
+        'from': ''+año+'-'+mes+'-'+dia+'T05:00:00Z',
+        'until': año2+'-'+mes2+'-'+dia2+'T04:59:59Z',
+        'uniq': '1tkzc5a6jmiv0nhy',
+    }
+
+    response = requests.get('https://es.stripchat.com/api/front/users/4650611/earnings', headers=headers, cookies=cookies, params=params)
 
     eq = json.loads(response.text)
     print(eq)

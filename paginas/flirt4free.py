@@ -22,7 +22,7 @@ def cargarDatosFlirt4free(dia,mes,año,db):
 
 
 
-    ejemplo_dir= "C:\\Users\\usuario\\Documents\\olimpo\\cargar_paginas\\archivos"
+    ejemplo_dir= "archivos"
     direct=[]
     directorio = pathlib.Path(ejemplo_dir)
     for fichero in directorio.iterdir():

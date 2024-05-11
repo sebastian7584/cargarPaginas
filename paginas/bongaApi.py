@@ -2,7 +2,7 @@ import requests
 
 def datosBonga(año,mes,dia,modelo):
     headers = {
-        'ACCESS-KEY': 'szgufgredm7vuoan5qink73qu6',
+        'ACCESS-KEY': '4gqwxrpj0gejtgsdfouyoege74pg',
     }
     fecha= año+'-'+mes+'-'+dia
     params = (
@@ -11,8 +11,7 @@ def datosBonga(año,mes,dia,modelo):
         ('date_to', fecha),
     )
 
-    response = requests.get('https://bongacams.com/api/v1/stats/model-regular-earnings', headers=headers, params=params)
-
+    response = requests.post('https://bongacams.com/api/v1/stats/model-regular-earnings', headers=headers)
     #NB. Original query string below. It seems impossible to parse and
     #reproduce query strings 100% accurately so the one below is given
     #in case the reproduced version is not "correct".

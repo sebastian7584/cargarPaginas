@@ -23,7 +23,7 @@ def cargarDatosStripchat2(dia,mes,año,dia2,mes2,año2,db):
         'guestWatchHistoryStartDate': '2022-04-16T17%3A39%3A37.780Z',
         '__cflb': '02DiuFntVtrkFMde1dj4khwPfLgZByWZi5m3READjJSur',
         '_gid': 'GA1.2.1388636281.1655395233',
-        'stripchat_com_sessionId': 'e24ccf74344f90ec93bc9540c5731f14937b5045eff73793cbd02c977ec3',
+        'stripchat_com_sessionId': '857ae4cb79d031e178ebde2ab409629fb9b6aa5e07aab4f77a073ce5a518',
         'stripchat_com_sessionRemember': '1',
         'userWatchHistoryIds': '30042591',
         '_gat': '1',
@@ -55,7 +55,7 @@ def cargarDatosStripchat2(dia,mes,año,dia2,mes2,año2,db):
         'uniq': 'mf193dw8tqgvoj76',
     }
     
-    response = requests.get('https://es.stripchat.com/api/front/users/73672961/earnings', headers=headers, params=params, cookies=cookies)
+    response = requests.get('https://es.stripchat.com/api/front/users/73672961/earnings?from='+año+'-'+mes+'-'+dia+'T05%3A00%3A00Z&until='+año2+'-'+mes2+'-'+dia2+'T04%3A59%3A59Z&uniq=mf193dw8tqgvoj76', headers=headers, cookies=cookies)
     
 
     eq = json.loads(response.text)
