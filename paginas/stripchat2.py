@@ -23,7 +23,7 @@ def cargarDatosStripchat2(dia,mes,año,dia2,mes2,año2,db):
         'guestWatchHistoryStartDate': '2022-04-16T17%3A39%3A37.780Z',
         '__cflb': '02DiuFntVtrkFMde1dj4khwPfLgZByWZi5m3READjJSur',
         '_gid': 'GA1.2.1388636281.1655395233',
-        'stripchat_com_sessionId': '857ae4cb79d031e178ebde2ab409629fb9b6aa5e07aab4f77a073ce5a518',
+        'stripchat_com_sessionId': 'a6198f21a1bf98949dc7296739cf4cd65b099436268c3dac4955347f0a90',
         'stripchat_com_sessionRemember': '1',
         'userWatchHistoryIds': '30042591',
         '_gat': '1',

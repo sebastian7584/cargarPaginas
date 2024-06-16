@@ -60,10 +60,10 @@ class Scraping:
 
 #chromedriver_autoinstaller.install()
 
-for i in range(10,11):
+for i in range(15,16):
     print(i)
     año='2024'              
-    mes='05'      
+    mes='06'      
     if i < 10 :
         dia='0'+str(i)
     else : dia = i
