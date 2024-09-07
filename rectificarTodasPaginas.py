@@ -60,10 +60,10 @@ class Scraping:
 
 #chromedriver_autoinstaller.install()
 
-for i in range(15,16):
+for i in range(1,7):
     print(i)
     año='2024'              
-    mes='06'      
+    mes='09'      
     if i < 10 :
         dia='0'+str(i)
     else : dia = i
@@ -90,7 +90,7 @@ for i in range(15,16):
 
     # cargarDatosChaturbate(dia,mes,año,db)
     # cargarDatosChaturbate2(dia,mes,año,db)
-    # cargarDatosChaturbate3(dia,mes,año,db)
+    cargarDatosChaturbate3(dia,mes,año,db)
     cargarDatosStripchat(dia,mes,año,dd,md,ad,db)
     cargarDatosStripchat2(dia,mes,año,dd,md,ad,db)
     # cargarDatosStripchat3(dia,mes,año,dd,md,ad,db)

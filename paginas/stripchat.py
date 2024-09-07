@@ -18,7 +18,7 @@ def cargarDatosStripchat(dia,mes,año,dia2,mes2,año2,db):
         'isVisitorsAgreementAccepted': '1',
         '_ga': 'GA1.2.1301892351.1681656050',
         '_gid': 'GA1.2.573934947.1682341133',
-        'stripchat_com_sessionId': '494a255bccb61ec80ace5fcd3be98891035da89b3085db29ed024a1447d5',
+        'stripchat_com_sessionId': '4554088923d91cb1d62b85cff22ae5cc4096d46591ae688af81befd5c616',
         'stripchat_com_sessionRemember': '1',
         '_gat': '1',
     }
